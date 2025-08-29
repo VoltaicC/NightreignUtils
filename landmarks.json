@@ -1,78 +1,254 @@
 {
   "Jail1": [
-    1721.45,
-    3364.97
+    3208.05,
+    4063.2
   ],
   "Jail2": [
-    791.71,
-    1573.99
+    4125.79,
+    2490.9
   ],
   "Jail3": [
-    2475.03,
-    888.92
+    1716.72,
+    3226.44
   ],
   "Jail4": [
-    2269.51,
-    1926.31
+    785.48,
+    1566.41
   ],
   "Jail5": [
-    3277.55,
-    1799.09
+    2479.26,
+    898.35
   ],
   "Jail6": [
-    4128.99,
-    2493.95
+    3289.03,
+    1816.09
   ],
   "Jail7": [
-    3209.04,
-    4030.47
+    2263.32,
+    1937.55
   ],
   "BirdStart1": [
-    2660.98,
-    3834.73
+    1541.27,
+    2517.89
   ],
   "BirdEnd1": [
-    1192.97,
-    1945.89
+    2668.2,
+    3530.1
   ],
   "BirdStart2": [
-    1525.72,
-    2562.45
+    2722.19,
+    3827.02
   ],
   "BirdEnd2": [
-    2631.62,
-    3531.34
+    1210.61,
+    1910.56
   ],
   "BirdStart3": [
-    1780.17,
-    1192.31
+    1790.95,
+    1202.01
   ],
   "BirdEnd3": [
-    3443.92,
-    1427.19
+    3471.23,
+    1458.44
   ],
   "BirdStart4": [
-    3072.02,
-    1799.09
+    3086.58,
+    1789.09
   ],
   "BirdEnd4": [
-    1613.8,
-    2004.61
+    1622.25,
+    2011.78
   ],
   "BirdStart5": [
-    3698.38,
-    1642.5
+    3687.16,
+    1627.14
   ],
   "BirdEnd5": [
-    3111.17,
-    3267.1
+    3120.32,
+    3273.68
   ],
   "BirdStart6": [
-    3600.51,
-    4089.19
+    3633.18,
+    4042.96
   ],
   "BirdEnd6": [
-    3796.24,
-    1573.99
+    3761.39,
+    1539.41
+  ],
+  "Castle": [
+    2445.52,
+    2794.56
+  ],
+  "South Lake": [
+    1993.39,
+    4123.93
+  ],
+  "Groveside": [
+    1352.74,
+    3395.72
+  ],
+  "Gatefront": [
+    1524.49,
+    2804.9
+  ],
+  "Stormhill": [
+    1345.87,
+    2310.27
+  ],
+  "Alexander Spot": [
+    2129.04,
+    1527.1
+  ],
+  "Northwest Stormhill": [
+    1091.68,
+    1327.87
+  ],
+  "Northeast Stormhill": [
+    2012.25,
+    819.49
+  ],
+  "South Mistwood": [
+    3860.26,
+    3835.39
+  ],
+  "Waypoint Ruins": [
+    3138.92,
+    3622.42
+  ],
+  "Minor Erdtree": [
+    3915.22,
+    3244.58
+  ],
+  "West Mistwood": [
+    3303.8,
+    3004.13
+  ],
+  "Northwest Mistwood": [
+    3461.8,
+    2385.84
+  ],
+  "Artist's Shack": [
+    2987.78,
+    2152.26
+  ],
+  "Northeast Mistwood": [
+    4066.36,
+    2117.91
+  ],
+  "Summonwater Approach": [
+    3303.8,
+    1417.18
+  ],
+  "Summonwater": [
+    3757.21,
+    977.5
+  ],
+  "Far Southwest": [
+    1016.11,
+    3959.05
+  ],
+  "Lake": [
+    2300.79,
+    3697.99
+  ],
+  "Stormhill South of Gate": [
+    919.93,
+    2825.51
+  ],
+  "Above Stormhill Tunnel Entrance": [
+    1799.28,
+    1966.77
+  ],
+  "West of Warmaster's Shack": [
+    1029.85,
+    1836.24
+  ],
+  "Southeast of Lake": [
+    2967.17,
+    4343.77
+  ],
+  "East of Cavalry Bridge": [
+    2816.03,
+    3285.8
+  ],
+  "Below Summonwater Hawk": [
+    3564.85,
+    1870.59
+  ],
+  "Third Church": [
+    4073.23,
+    1753.8
+  ],
+  "Northeast of Saintsbridge": [
+    2747.33,
+    991.24
+  ],
+  "Northwest of Lake": [
+    1716.84,
+    3223.97
+  ],
+  "Murkwater Terminus": [
+    2245.83,
+    1925.55
+  ],
+  "Highroad": [
+    2451.93,
+    874.45
+  ],
+  "East of Lake": [
+    3214.49,
+    4041.49
+  ],
+  "Mistwood": [
+    4128.19,
+    2488.89
+  ],
+  "Northeast Tunnel Entrance": [
+    3283.19,
+    1808.76
+  ],
+  "Castle Basement": [
+    2438.19,
+    2784.29
+  ],
+  "Castle Rooftop": [
+    2238.96,
+    2784.29
+  ],
+  "Far Southwest of Lake": [
+    1490.14,
+    4309.42
+  ],
+  "North of Stormhill Tunnel Entrance": [
+    1586.32,
+    1863.72
+  ],
+  "North of Murkwater Terminus": [
+    2424.45,
+    1746.93
+  ],
+  "Stormhill Spectral Hawk": [
+    1668.75,
+    1059.94
+  ],
+  "Northwest Stormhill Cliffside": [
+    1490.14,
+    846.97
+  ],
+  "Mistwood Spectral Hawk": [
+    3578.59,
+    4068.97
+  ],
+  "North Mistwood": [
+    4018.27,
+    2543.85
+  ],
+  "East of Murkwater Terminus": [
+    2816.03,
+    1863.72
+  ],
+  "Northwest of Summonwater": [
+    3324.41,
+    963.76
   ]
 }

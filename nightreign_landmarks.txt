@@ -17,3 +17,52 @@ BirdStart5
 BirdEnd5
 BirdStart6
 BirdEnd6
+Castle
+South Lake
+Groveside
+Gatefront	
+Stormhill 
+North of Gate	
+Alexander Spot	
+Northwest Stormhill	
+Northeast Stormhill
+South Mistwood	
+Waypoint Ruins	
+Minor Erdtree	
+West Mistwood	
+Northwest Mistwood	
+Artist's Shack	
+Northeast Mistwood	
+Summonwater Approach
+Summonwater	Far 
+Southwest	
+Lake	
+Stormhill South of Gate	
+Above Stormhill Tunnel Entrance	
+West of Warmaster's Shack	
+Southeast of Lake	
+East of Cavalry Bridge	
+Minor Erdtree
+Below Summonwater Hawk	
+Third Church	
+Northeast of Saintsbridge	
+Northwest of Lake	
+Murkwater Terminus	
+Stormhill	
+Highroad	
+East of Lake	
+Mistwood	
+Northeast Tunnel Entrance	
+Castle Basement	
+Castle Rooftop	
+Far Southwest of Lake	
+Lake	
+North of Stormhill Tunnel Entrance	
+North of Murkwater Terminus	
+Stormhill Spectral Hawk
+Northwest Stormhill Cliffside	
+Mistwood Spectral Hawk	
+North Mistwood	
+East of Murkwater 
+Terminus	
+Northwest of Summonwater
