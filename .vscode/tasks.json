@@ -12,10 +12,10 @@
 				"cwd": "${workspaceFolder}"
 			},
 			"linux": {
-				"command": "python3 -m venv night_venv && source night_venv/bin/activate && python3 -m pip install --upgrade pip && python3 -m pip install -r requirements.txt && deactivate night_venv"
+				"command": "python3 -m venv night_pyenv && source night_pyenv/bin/activate && python3 -m pip install --upgrade pip && python3 -m pip install -r requirements.txt && deactivate night_pyenv"
 			},
 			"osx": {
-				"command": "python3 -m venv night_venv && source night_venv/bin/activate && python3 -m pip install --upgrade pip && python3 -m pip install -r requirements.txt && deactivate night_venv"
+				"command": "python3 -m venv night_pyenv && source night_pyenv/bin/activate && python3 -m pip install --upgrade pip && python3 -m pip install -r requirements.txt && deactivate night_pyenv"
 			},
 			"windows": {
 				"options": {
@@ -27,7 +27,7 @@
 						]
 					},
 				},
-				"command": "(if not exist night_venv py -m venv night_venv) && .\\night_venv\\Scripts\\activate.bat && py -m pip install --upgrade pip && py -m pip install -r requirements.txt && deactivate night_venv"
+				"command": "(if not exist night_pyenv py -m venv night_pyenv) && .\\night_pyenv\\Scripts\\activate.bat && py -m pip install --upgrade pip && py -m pip install -r requirements.txt && deactivate night_pyenv"
 			},
 			"problemMatcher": []
 		}
