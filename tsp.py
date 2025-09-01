@@ -5,13 +5,13 @@ from PIL import Image
 
 #Config
 landmarks_file = "landmarks.json"
-map_file = "limgrave_map.jpeg"
+map_file = "images/maps/limgrave_map.jpeg"
 
 with open(landmarks_file, "r") as f:
     coords = json.load(f)
 
 # Jail + bird nodes
-jails = ["Jail1","Jail2","Jail3","Jail4","Jail5","Jail6","Jail7"]
+jails = ["Northwest of Lake", "Murkwater Terminus", "Stormhill", "Highroad", "East of Lake", "Mistwood", "Northeast Tunnel Entrance"]
 bird_paths = [
     ("BirdStart1","BirdEnd1"),
     ("BirdStart2","BirdEnd2"),
