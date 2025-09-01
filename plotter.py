@@ -5,7 +5,7 @@ import cv2
 import json
 
 # Config
-map_img_path = "limgrave_map.jpeg" 
+map_img_path = "images/maps/limgrave_map.jpeg"
 locations_file = "nightreign_landmarks.txt"
 output_file = "landmarks.json"
 

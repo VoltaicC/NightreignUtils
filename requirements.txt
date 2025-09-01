@@ -2,3 +2,5 @@ matplotlib
 opencv-python
 networkx
 scipy
+pandas
+openpyxl

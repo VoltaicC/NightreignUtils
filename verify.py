@@ -3,7 +3,7 @@ import cv2
 import json
 
 # Config
-map_img_path = "limgrave_map.jpeg"      
+map_img_path = "images/maps/limgrave_map.jpeg"      
 landmarks_file = "landmarks.json"       
 
 # Load map image
@@ -22,5 +22,6 @@ for name, (x, y) in coords.items():
     ax.plot(x, y, "ro", markersize=4)  # red dot
     ax.text(x+10, y+10, name, fontsize=6, color="yellow", 
             bbox=dict(facecolor="black", alpha=0.4, edgecolor="none", pad=1))
+
 
 plt.show()

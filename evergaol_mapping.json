@@ -1,0 +1,2562 @@
+{
+  "0.0-Gladius-Default": {
+    "Northwest of Lake": "Nox Warriors",
+    "Murkwater Terminus": "Bloodhound Knight",
+    "Stormhill": "Beastmen of Farum Azula",
+    "Highroad": "Grave Warden Duelist",
+    "East of Lake": "Banished Knights",
+    "Mistwood": "Godskin Apostle",
+    "Northeast Tunnel Entrance": "Crucible Knight with Sword"
+  },
+  "1.0-Gladius-Default": {
+    "Northwest of Lake": "Dragonkin Soldier",
+    "Murkwater Terminus": "Nox Warriors",
+    "Stormhill": "Crucible Knight with Spear",
+    "Highroad": "Beastly Brigade",
+    "East of Lake": "Banished Knights",
+    "Mistwood": "Crystalians",
+    "Northeast Tunnel Entrance": "Grave Warden Duelist"
+  },
+  "2.0-Gladius-Default": {
+    "Northwest of Lake": "Nox Warriors",
+    "Murkwater Terminus": "Omen",
+    "Stormhill": "Crucible Knight with Spear",
+    "Highroad": "Bloodhound Knight",
+    "East of Lake": "Banished Knights",
+    "Mistwood": "Godskin Noble",
+    "Northeast Tunnel Entrance": "Beastmen of Farum Azula"
+  },
+  "3.0-Gladius-Default": {
+    "Northwest of Lake": "Crystalians",
+    "Murkwater Terminus": "Banished Knights",
+    "Stormhill": "Beastly Brigade",
+    "Highroad": "Nox Warriors",
+    "East of Lake": "Dragonkin Soldier",
+    "Mistwood": "Grave Warden Duelist",
+    "Northeast Tunnel Entrance": "Godskin Apostle"
+  },
+  "4.0-Gladius-Default": {
+    "Northwest of Lake": "Crystalians",
+    "Murkwater Terminus": "Omen",
+    "Stormhill": "Nox Warriors",
+    "Highroad": "Godskin Apostle",
+    "East of Lake": "Banished Knights",
+    "Mistwood": "Grave Warden Duelist",
+    "Northeast Tunnel Entrance": "Crucible Knight with Sword"
+  },
+  "5.0-Gladius-Default": {
+    "Northwest of Lake": "Crucible Knight with Sword",
+    "Murkwater Terminus": "Grave Warden Duelist",
+    "Stormhill": "Godskin Apostle",
+    "Highroad": "Bloodhound Knight",
+    "East of Lake": "Banished Knights",
+    "Mistwood": "Beastly Brigade",
+    "Northeast Tunnel Entrance": "Nox Warriors"
+  },
+  "6.0-Gladius-Default": {
+    "Northwest of Lake": "Beastly Brigade",
+    "Murkwater Terminus": "Crucible Knight with Spear",
+    "Stormhill": "Crucible Knight with Sword",
+    "Highroad": "Nox Warriors",
+    "East of Lake": "Grave Warden Duelist",
+    "Mistwood": "Ancient Dragon",
+    "Northeast Tunnel Entrance": "Crystalians"
+  },
+  "7.0-Gladius-Default": {
+    "Northwest of Lake": "Bloodhound Knight",
+    "Murkwater Terminus": "Godskin Apostle",
+    "Stormhill": "Crucible Knight with Spear",
+    "Highroad": "Banished Knights",
+    "East of Lake": "Nox Warriors",
+    "Mistwood": "Omen",
+    "Northeast Tunnel Entrance": "Beastly Brigade"
+  },
+  "8.0-Gladius-Default": {
+    "Northwest of Lake": "Omen",
+    "Murkwater Terminus": "Nox Warriors",
+    "Stormhill": "Banished Knights",
+    "Highroad": "Crystalians",
+    "East of Lake": "Crucible Knight with Spear",
+    "Mistwood": "Grave Warden Duelist",
+    "Northeast Tunnel Entrance": "Godskin Apostle"
+  },
+  "9.0-Gladius-Default": {
+    "Northwest of Lake": "Crystalians",
+    "Murkwater Terminus": "Crucible Knight with Spear",
+    "Stormhill": "Godskin Apostle",
+    "Highroad": "Beastmen of Farum Azula",
+    "East of Lake": "Grave Warden Duelist",
+    "Mistwood": "Nox Warriors",
+    "Northeast Tunnel Entrance": "Banished Knights"
+  },
+  "10.0-Gladius-Default": {
+    "Northwest of Lake": "Beastly Brigade",
+    "Murkwater Terminus": "Godskin Apostle",
+    "Stormhill": "Beastmen of Farum Azula",
+    "Highroad": "Stoneskin Lords",
+    "East of Lake": "Dragonkin Soldier",
+    "Mistwood": "Banished Knights",
+    "Northeast Tunnel Entrance": "Bloodhound Knight"
+  },
+  "11.0-Gladius-Default": {
+    "Northwest of Lake": "Grave Warden Duelist",
+    "Murkwater Terminus": "Nox Warriors",
+    "Stormhill": "Bloodhound Knight",
+    "Highroad": "Godskin Apostle",
+    "East of Lake": "Crucible Knight with Sword",
+    "Mistwood": "Stoneskin Lords",
+    "Northeast Tunnel Entrance": "Beastmen of Farum Azula"
+  },
+  "12.0-Gladius-Default": {
+    "Northwest of Lake": "Crucible Knight with Sword",
+    "Murkwater Terminus": "Bloodhound Knight",
+    "Stormhill": "Godskin Noble",
+    "Highroad": "Crystalians",
+    "East of Lake": "Beastly Brigade",
+    "Mistwood": "Omen",
+    "Northeast Tunnel Entrance": "Stoneskin Lords"
+  },
+  "13.0-Gladius-Default": {
+    "Northwest of Lake": "Dragonkin Soldier",
+    "Murkwater Terminus": "Ancient Dragon",
+    "Stormhill": "Omen",
+    "Highroad": "Nox Warriors",
+    "East of Lake": "Grave Warden Duelist",
+    "Mistwood": "Bloodhound Knight",
+    "Northeast Tunnel Entrance": "Crucible Knight with Spear"
+  },
+  "14.0-Gladius-Default": {
+    "Northwest of Lake": "Crucible Knight with Sword",
+    "Murkwater Terminus": "Banished Knights",
+    "Stormhill": "Nox Warriors",
+    "Highroad": "Grave Warden Duelist",
+    "East of Lake": "Godskin Apostle",
+    "Mistwood": "Omen",
+    "Northeast Tunnel Entrance": "Crystalians"
+  },
+  "15.0-Gladius-Default": {
+    "Northwest of Lake": "Stoneskin Lords",
+    "Murkwater Terminus": "Bloodhound Knight",
+    "Stormhill": "Nox Warriors",
+    "Highroad": "Beastly Brigade",
+    "East of Lake": "Beastmen of Farum Azula",
+    "Mistwood": "Crucible Knight with Spear",
+    "Northeast Tunnel Entrance": "Godskin Apostle"
+  },
+  "16.0-Gladius-Default": {
+    "Northwest of Lake": "Nox Warriors",
+    "Murkwater Terminus": "Stoneskin Lords",
+    "Stormhill": "Crucible Knight with Sword",
+    "Highroad": "Crucible Knight with Spear",
+    "East of Lake": "Crystalians",
+    "Mistwood": "Beastly Brigade",
+    "Northeast Tunnel Entrance": "Omen"
+  },
+  "17.0-Gladius-Default": {
+    "Northwest of Lake": "Godskin Apostle",
+    "Murkwater Terminus": "Crucible Knight with Sword",
+    "Stormhill": "Death Rite Bird",
+    "Highroad": "Bloodhound Knight",
+    "East of Lake": "Banished Knights",
+    "Mistwood": "Grave Warden Duelist",
+    "Northeast Tunnel Entrance": "Beastly Brigade"
+  },
+  "18.0-Gladius-Default": {
+    "Northwest of Lake": "Bloodhound Knight",
+    "Murkwater Terminus": "Ancient Dragon",
+    "Stormhill": "Grave Warden Duelist",
+    "Highroad": "Beastmen of Farum Azula",
+    "East of Lake": "Crucible Knight with Sword",
+    "Mistwood": "Godskin Apostle",
+    "Northeast Tunnel Entrance": "Banished Knights"
+  },
+  "19.0-Gladius-Default": {
+    "Northwest of Lake": "Beastmen of Farum Azula",
+    "Murkwater Terminus": "Nox Warriors",
+    "Stormhill": "Crystalians",
+    "Highroad": "Crucible Knight with Sword",
+    "East of Lake": "Bloodhound Knight",
+    "Mistwood": "Dragonkin Soldier",
+    "Northeast Tunnel Entrance": "Grave Warden Duelist"
+  },
+  "20.0-Gladius-Mountaintop": {
+    "Northwest of Lake": "Grave Warden Duelist",
+    "East of Lake": "Crystalians",
+    "Mistwood": "Dragonkin Soldier",
+    "Northeast Tunnel Entrance": "Nox Warriors"
+  },
+  "21.0-Gladius-Mountaintop": {
+    "Northwest of Lake": "Bloodhound Knight",
+    "East of Lake": "Dragonkin Soldier",
+    "Mistwood": "Beastmen of Farum Azula",
+    "Northeast Tunnel Entrance": "Stoneskin Lords"
+  },
+  "22.0-Gladius-Mountaintop": {
+    "Northwest of Lake": "Dragonkin Soldier",
+    "East of Lake": "Nox Warriors",
+    "Mistwood": "Beastly Brigade",
+    "Northeast Tunnel Entrance": "Crystalians"
+  },
+  "23.0-Gladius-Mountaintop": {
+    "Northwest of Lake": "Beastly Brigade",
+    "East of Lake": "Bloodhound Knight",
+    "Mistwood": "Crucible Knight with Sword",
+    "Northeast Tunnel Entrance": "Death Rite Bird"
+  },
+  "24.0-Gladius-Mountaintop": {
+    "Northwest of Lake": "Stoneskin Lords",
+    "East of Lake": "Grave Warden Duelist",
+    "Mistwood": "Banished Knights",
+    "Northeast Tunnel Entrance": "Dragonkin Soldier"
+  },
+  "25.0-Gladius-Crater": {
+    "Northwest of Lake": "Stoneskin Lords",
+    "Stormhill": "Omen",
+    "East of Lake": "Nox Warriors",
+    "Mistwood": "Godskin Apostle"
+  },
+  "26.0-Gladius-Crater": {
+    "Northwest of Lake": "Bloodhound Knight",
+    "Stormhill": "Grave Warden Duelist",
+    "East of Lake": "Banished Knights",
+    "Mistwood": "Dragonkin Soldier"
+  },
+  "27.0-Gladius-Crater": {
+    "Northwest of Lake": "Stoneskin Lords",
+    "Stormhill": "Beastmen of Farum Azula",
+    "East of Lake": "Crucible Knight with Sword",
+    "Mistwood": "Godskin Duo"
+  },
+  "28.0-Gladius-Crater": {
+    "Northwest of Lake": "Stoneskin Lords",
+    "Stormhill": "Crucible Knight with Spear",
+    "East of Lake": "Banished Knights",
+    "Mistwood": "Beastly Brigade"
+  },
+  "29.0-Gladius-Crater": {
+    "Northwest of Lake": "Beastmen of Farum Azula",
+    "Stormhill": "Banished Knights",
+    "East of Lake": "Nox Warriors",
+    "Mistwood": "Crucible Knight with Sword"
+  },
+  "30.0-Gladius-Rotted Woods": {
+    "Northwest of Lake": "Godskin Apostle",
+    "Murkwater Terminus": "Death Rite Bird",
+    "Stormhill": "Crucible Knight with Spear",
+    "Highroad": "Crystalians",
+    "Mistwood": "Beastly Brigade",
+    "Northeast Tunnel Entrance": "Banished Knights"
+  },
+  "31.0-Gladius-Rotted Woods": {
+    "Northwest of Lake": "Bloodhound Knight",
+    "Murkwater Terminus": "Omen",
+    "Stormhill": "Godskin Apostle",
+    "Highroad": "Beastly Brigade",
+    "Mistwood": "Stoneskin Lords",
+    "Northeast Tunnel Entrance": "Godskin Noble"
+  },
+  "32.0-Gladius-Rotted Woods": {
+    "Northwest of Lake": "Omen",
+    "Murkwater Terminus": "Dragonkin Soldier",
+    "Stormhill": "Stoneskin Lords",
+    "Highroad": "Banished Knights",
+    "Mistwood": "Crystalians",
+    "Northeast Tunnel Entrance": "Godskin Apostle"
+  },
+  "33.0-Gladius-Rotted Woods": {
+    "Northwest of Lake": "Nox Warriors",
+    "Murkwater Terminus": "Omen",
+    "Stormhill": "Crystalians",
+    "Highroad": "Crucible Knight with Sword",
+    "Mistwood": "Grave Warden Duelist",
+    "Northeast Tunnel Entrance": "Godskin Noble"
+  },
+  "34.0-Gladius-Rotted Woods": {
+    "Northwest of Lake": "Godskin Apostle",
+    "Murkwater Terminus": "Grave Warden Duelist",
+    "Stormhill": "Beastmen of Farum Azula",
+    "Highroad": "Dragonkin Soldier",
+    "Mistwood": "Crystalians",
+    "Northeast Tunnel Entrance": "Banished Knights"
+  },
+  "35.0-Gladius-Noklateo": {
+    "Murkwater Terminus": "Crucible Knight with Spear",
+    "Stormhill": "Crystalians",
+    "Highroad": "Stoneskin Lords",
+    "East of Lake": "Dragonkin Soldier",
+    "Mistwood": "Beastly Brigade",
+    "Northeast Tunnel Entrance": "Grave Warden Duelist"
+  },
+  "36.0-Gladius-Noklateo": {
+    "Murkwater Terminus": "Omen",
+    "Stormhill": "Stoneskin Lords",
+    "Highroad": "Grave Warden Duelist",
+    "East of Lake": "Crystalians",
+    "Mistwood": "Dragonkin Soldier",
+    "Northeast Tunnel Entrance": "Godskin Apostle"
+  },
+  "37.0-Gladius-Noklateo": {
+    "Murkwater Terminus": "Beastmen of Farum Azula",
+    "Stormhill": "Godskin Apostle",
+    "Highroad": "Crystalians",
+    "East of Lake": "Crucible Knight with Sword",
+    "Mistwood": "Nox Warriors",
+    "Northeast Tunnel Entrance": "Ancient Dragon"
+  },
+  "38.0-Gladius-Noklateo": {
+    "Murkwater Terminus": "Beastly Brigade",
+    "Stormhill": "Nox Warriors",
+    "Highroad": "Godskin Apostle",
+    "East of Lake": "Omen",
+    "Mistwood": "Crystalians",
+    "Northeast Tunnel Entrance": "Crucible Knight with Spear"
+  },
+  "39.0-Gladius-Noklateo": {
+    "Murkwater Terminus": "Beastly Brigade",
+    "Stormhill": "Crucible Knight with Sword",
+    "Highroad": "Stoneskin Lords",
+    "East of Lake": "Grave Warden Duelist",
+    "Mistwood": "Dragonkin Soldier",
+    "Northeast Tunnel Entrance": "Banished Knights"
+  },
+  "40.0-Adel-Default": {
+    "Northwest of Lake": "Grave Warden Duelist",
+    "Murkwater Terminus": "Godskin Apostle",
+    "Stormhill": "Godskin Noble",
+    "Highroad": "Stoneskin Lords",
+    "East of Lake": "Nox Warriors",
+    "Mistwood": "Crystalians",
+    "Northeast Tunnel Entrance": "Omen"
+  },
+  "41.0-Adel-Default": {
+    "Northwest of Lake": "Crucible Knight with Spear",
+    "Murkwater Terminus": "Beastly Brigade",
+    "Stormhill": "Banished Knights",
+    "Highroad": "Crucible Knight with Sword",
+    "East of Lake": "Omen",
+    "Mistwood": "Nox Warriors",
+    "Northeast Tunnel Entrance": "Crystalians"
+  },
+  "42.0-Adel-Default": {
+    "Northwest of Lake": "Nox Warriors",
+    "Murkwater Terminus": "Beastly Brigade",
+    "Stormhill": "Godskin Noble",
+    "Highroad": "Dragonkin Soldier",
+    "East of Lake": "Grave Warden Duelist",
+    "Mistwood": "Banished Knights",
+    "Northeast Tunnel Entrance": "Godskin Duo"
+  },
+  "43.0-Adel-Default": {
+    "Northwest of Lake": "Grave Warden Duelist",
+    "Murkwater Terminus": "Bloodhound Knight",
+    "Stormhill": "Crucible Knight with Sword",
+    "Highroad": "Godskin Noble",
+    "East of Lake": "Nox Warriors",
+    "Mistwood": "Beastmen of Farum Azula",
+    "Northeast Tunnel Entrance": "Banished Knights"
+  },
+  "44.0-Adel-Default": {
+    "Northwest of Lake": "Omen",
+    "Murkwater Terminus": "Bloodhound Knight",
+    "Stormhill": "Nox Warriors",
+    "Highroad": "Beastly Brigade",
+    "East of Lake": "Crystalians",
+    "Mistwood": "Dragonkin Soldier",
+    "Northeast Tunnel Entrance": "Crucible Knight with Spear"
+  },
+  "45.0-Adel-Default": {
+    "Northwest of Lake": "Banished Knights",
+    "Murkwater Terminus": "Omen",
+    "Stormhill": "Crystalians",
+    "Highroad": "Dragonkin Soldier",
+    "East of Lake": "Nox Warriors",
+    "Mistwood": "Godskin Noble",
+    "Northeast Tunnel Entrance": "Grave Warden Duelist"
+  },
+  "46.0-Adel-Default": {
+    "Northwest of Lake": "Bloodhound Knight",
+    "Murkwater Terminus": "Beastmen of Farum Azula",
+    "Stormhill": "Grave Warden Duelist",
+    "Highroad": "Godskin Noble",
+    "East of Lake": "Dragonkin Soldier",
+    "Mistwood": "Banished Knights",
+    "Northeast Tunnel Entrance": "Crystalians"
+  },
+  "47.0-Adel-Default": {
+    "Northwest of Lake": "Crucible Knight with Sword",
+    "Murkwater Terminus": "Omen",
+    "Stormhill": "Crystalians",
+    "Highroad": "Beastly Brigade",
+    "East of Lake": "Banished Knights",
+    "Mistwood": "Stoneskin Lords",
+    "Northeast Tunnel Entrance": "Dragonkin Soldier"
+  },
+  "48.0-Adel-Default": {
+    "Northwest of Lake": "Crystalians",
+    "Murkwater Terminus": "Omen",
+    "Stormhill": "Stoneskin Lords",
+    "Highroad": "Nox Warriors",
+    "East of Lake": "Godskin Apostle",
+    "Mistwood": "Grave Warden Duelist",
+    "Northeast Tunnel Entrance": "Godskin Noble"
+  },
+  "49.0-Adel-Default": {
+    "Northwest of Lake": "Beastly Brigade",
+    "Murkwater Terminus": "Crystalians",
+    "Stormhill": "Stoneskin Lords",
+    "Highroad": "Grave Warden Duelist",
+    "East of Lake": "Godskin Noble",
+    "Mistwood": "Bloodhound Knight",
+    "Northeast Tunnel Entrance": "Godskin Apostle"
+  },
+  "50.0-Adel-Default": {
+    "Northwest of Lake": "Bloodhound Knight",
+    "Murkwater Terminus": "Crucible Knight with Spear",
+    "Stormhill": "Crucible Knight with Sword",
+    "Highroad": "Crystalians",
+    "East of Lake": "Nox Warriors",
+    "Mistwood": "Beastly Brigade",
+    "Northeast Tunnel Entrance": "Beastmen of Farum Azula"
+  },
+  "51.0-Adel-Default": {
+    "Northwest of Lake": "Beastly Brigade",
+    "Murkwater Terminus": "Grave Warden Duelist",
+    "Stormhill": "Godskin Noble",
+    "Highroad": "Stoneskin Lords",
+    "East of Lake": "Nox Warriors",
+    "Mistwood": "Bloodhound Knight",
+    "Northeast Tunnel Entrance": "Dragonkin Soldier"
+  },
+  "52.0-Adel-Default": {
+    "Northwest of Lake": "Nox Warriors",
+    "Murkwater Terminus": "Dragonkin Soldier",
+    "Stormhill": "Bloodhound Knight",
+    "Highroad": "Banished Knights",
+    "East of Lake": "Crucible Knight with Sword",
+    "Mistwood": "Grave Warden Duelist",
+    "Northeast Tunnel Entrance": "Beastly Brigade"
+  },
+  "53.0-Adel-Default": {
+    "Northwest of Lake": "Omen",
+    "Murkwater Terminus": "Godskin Apostle",
+    "Stormhill": "Dragonkin Soldier",
+    "Highroad": "Bloodhound Knight",
+    "East of Lake": "Beastmen of Farum Azula",
+    "Mistwood": "Ancient Dragon",
+    "Northeast Tunnel Entrance": "Crystalians"
+  },
+  "54.0-Adel-Default": {
+    "Northwest of Lake": "Dragonkin Soldier",
+    "Murkwater Terminus": "Stoneskin Lords",
+    "Stormhill": "Banished Knights",
+    "Highroad": "Beastly Brigade",
+    "East of Lake": "Nox Warriors",
+    "Mistwood": "Crucible Knight with Sword",
+    "Northeast Tunnel Entrance": "Grave Warden Duelist"
+  },
+  "55.0-Adel-Default": {
+    "Northwest of Lake": "Omen",
+    "Murkwater Terminus": "Dragonkin Soldier",
+    "Stormhill": "Beastmen of Farum Azula",
+    "Highroad": "Crucible Knight with Spear",
+    "East of Lake": "Nox Warriors",
+    "Mistwood": "Ancient Dragon",
+    "Northeast Tunnel Entrance": "Banished Knights"
+  },
+  "56.0-Adel-Default": {
+    "Northwest of Lake": "Beastmen of Farum Azula",
+    "Murkwater Terminus": "Crucible Knight with Sword",
+    "Stormhill": "Crystalians",
+    "Highroad": "Crucible Knight with Spear",
+    "East of Lake": "Grave Warden Duelist",
+    "Mistwood": "Stoneskin Lords",
+    "Northeast Tunnel Entrance": "Nox Warriors"
+  },
+  "57.0-Adel-Default": {
+    "Northwest of Lake": "Godskin Apostle",
+    "Murkwater Terminus": "Crucible Knight with Sword",
+    "Stormhill": "Omen",
+    "Highroad": "Stoneskin Lords",
+    "East of Lake": "Banished Knights",
+    "Mistwood": "Ancient Dragon",
+    "Northeast Tunnel Entrance": "Beastmen of Farum Azula"
+  },
+  "58.0-Adel-Default": {
+    "Northwest of Lake": "Crystalians",
+    "Murkwater Terminus": "Death Rite Bird",
+    "Stormhill": "Beastmen of Farum Azula",
+    "Highroad": "Godskin Noble",
+    "East of Lake": "Crucible Knight with Sword",
+    "Mistwood": "Nox Warriors",
+    "Northeast Tunnel Entrance": "Omen"
+  },
+  "59.0-Adel-Default": {
+    "Northwest of Lake": "Banished Knights",
+    "Murkwater Terminus": "Omen",
+    "Stormhill": "Crystalians",
+    "Highroad": "Dragonkin Soldier",
+    "East of Lake": "Beastly Brigade",
+    "Mistwood": "Stoneskin Lords",
+    "Northeast Tunnel Entrance": "Crucible Knight with Sword"
+  },
+  "60.0-Adel-Mountaintop": {
+    "Northwest of Lake": "Godskin Apostle",
+    "East of Lake": "Grave Warden Duelist",
+    "Mistwood": "Bloodhound Knight",
+    "Northeast Tunnel Entrance": "Nox Warriors"
+  },
+  "61.0-Adel-Mountaintop": {
+    "Northwest of Lake": "Nox Warriors",
+    "East of Lake": "Omen",
+    "Mistwood": "Crystalians",
+    "Northeast Tunnel Entrance": "Godskin Apostle"
+  },
+  "62.0-Adel-Mountaintop": {
+    "Northwest of Lake": "Stoneskin Lords",
+    "East of Lake": "Grave Warden Duelist",
+    "Mistwood": "Crystalians",
+    "Northeast Tunnel Entrance": "Dragonkin Soldier"
+  },
+  "63.0-Adel-Mountaintop": {
+    "Northwest of Lake": "Grave Warden Duelist",
+    "East of Lake": "Crucible Knight with Sword",
+    "Mistwood": "Crystalians",
+    "Northeast Tunnel Entrance": "Stoneskin Lords"
+  },
+  "64.0-Adel-Mountaintop": {
+    "Northwest of Lake": "Nox Warriors",
+    "East of Lake": "Dragonkin Soldier",
+    "Mistwood": "Beastly Brigade",
+    "Northeast Tunnel Entrance": "Crystalians"
+  },
+  "65.0-Adel-Crater": {
+    "Northwest of Lake": "Godskin Noble",
+    "Stormhill": "Godskin Duo",
+    "East of Lake": "Crystalians",
+    "Mistwood": "Omen"
+  },
+  "66.0-Adel-Crater": {
+    "Northwest of Lake": "Omen",
+    "Stormhill": "Death Rite Bird",
+    "East of Lake": "Banished Knights",
+    "Mistwood": "Crucible Knight with Sword"
+  },
+  "67.0-Adel-Crater": {
+    "Northwest of Lake": "Stoneskin Lords",
+    "Stormhill": "Crucible Knight with Spear",
+    "East of Lake": "Grave Warden Duelist",
+    "Mistwood": "Banished Knights"
+  },
+  "68.0-Adel-Crater": {
+    "Northwest of Lake": "Grave Warden Duelist",
+    "Stormhill": "Crystalians",
+    "East of Lake": "Dragonkin Soldier",
+    "Mistwood": "Nox Warriors"
+  },
+  "69.0-Adel-Crater": {
+    "Northwest of Lake": "Stoneskin Lords",
+    "Stormhill": "Godskin Apostle",
+    "East of Lake": "Nox Warriors",
+    "Mistwood": "Grave Warden Duelist"
+  },
+  "70.0-Adel-Rotted Woods": {
+    "Northwest of Lake": "Dragonkin Soldier",
+    "Murkwater Terminus": "Stoneskin Lords",
+    "Stormhill": "Grave Warden Duelist",
+    "Highroad": "Beastly Brigade",
+    "Mistwood": "Crucible Knight with Sword",
+    "Northeast Tunnel Entrance": "Bloodhound Knight"
+  },
+  "71.0-Adel-Rotted Woods": {
+    "Northwest of Lake": "Grave Warden Duelist",
+    "Murkwater Terminus": "Nox Warriors",
+    "Stormhill": "Crucible Knight with Spear",
+    "Highroad": "Beastmen of Farum Azula",
+    "Mistwood": "Crucible Knight with Sword",
+    "Northeast Tunnel Entrance": "Crystalians"
+  },
+  "72.0-Adel-Rotted Woods": {
+    "Northwest of Lake": "Nox Warriors",
+    "Murkwater Terminus": "Banished Knights",
+    "Stormhill": "Dragonkin Soldier",
+    "Highroad": "Crucible Knight with Sword",
+    "Mistwood": "Beastly Brigade",
+    "Northeast Tunnel Entrance": "Grave Warden Duelist"
+  },
+  "73.0-Adel-Rotted Woods": {
+    "Northwest of Lake": "Grave Warden Duelist",
+    "Murkwater Terminus": "Omen",
+    "Stormhill": "Crucible Knight with Sword",
+    "Highroad": "Crucible Knight with Spear",
+    "Mistwood": "Nox Warriors",
+    "Northeast Tunnel Entrance": "Bloodhound Knight"
+  },
+  "74.0-Adel-Rotted Woods": {
+    "Northwest of Lake": "Crystalians",
+    "Murkwater Terminus": "Crucible Knight with Sword",
+    "Stormhill": "Beastmen of Farum Azula",
+    "Highroad": "Crucible Knight with Spear",
+    "Mistwood": "Bloodhound Knight",
+    "Northeast Tunnel Entrance": "Beastly Brigade"
+  },
+  "75.0-Adel-Noklateo": {
+    "Murkwater Terminus": "Godskin Noble",
+    "Stormhill": "Grave Warden Duelist",
+    "Highroad": "Stoneskin Lords",
+    "East of Lake": "Beastly Brigade",
+    "Mistwood": "Bloodhound Knight",
+    "Northeast Tunnel Entrance": "Crucible Knight with Spear"
+  },
+  "76.0-Adel-Noklateo": {
+    "Murkwater Terminus": "Dragonkin Soldier",
+    "Stormhill": "Stoneskin Lords",
+    "Highroad": "Omen",
+    "East of Lake": "Crucible Knight with Spear",
+    "Mistwood": "Nox Warriors",
+    "Northeast Tunnel Entrance": "Beastly Brigade"
+  },
+  "77.0-Adel-Noklateo": {
+    "Murkwater Terminus": "Godskin Apostle",
+    "Stormhill": "Grave Warden Duelist",
+    "Highroad": "Nox Warriors",
+    "East of Lake": "Beastmen of Farum Azula",
+    "Mistwood": "Godskin Noble",
+    "Northeast Tunnel Entrance": "Crystalians"
+  },
+  "78.0-Adel-Noklateo": {
+    "Murkwater Terminus": "Beastmen of Farum Azula",
+    "Stormhill": "Godskin Apostle",
+    "Highroad": "Beastly Brigade",
+    "East of Lake": "Bloodhound Knight",
+    "Mistwood": "Crucible Knight with Spear",
+    "Northeast Tunnel Entrance": "Nox Warriors"
+  },
+  "79.0-Adel-Noklateo": {
+    "Murkwater Terminus": "Beastly Brigade",
+    "Stormhill": "Banished Knights",
+    "Highroad": "Beastmen of Farum Azula",
+    "East of Lake": "Godskin Noble",
+    "Mistwood": "Bloodhound Knight",
+    "Northeast Tunnel Entrance": "Dragonkin Soldier"
+  },
+  "80.0-Gnoster-Default": {
+    "Northwest of Lake": "Bloodhound Knight",
+    "Murkwater Terminus": "Beastly Brigade",
+    "Stormhill": "Grave Warden Duelist",
+    "Highroad": "Godskin Apostle",
+    "East of Lake": "Nox Warriors",
+    "Mistwood": "Crystalians",
+    "Northeast Tunnel Entrance": "Crucible Knight with Sword"
+  },
+  "81.0-Gnoster-Default": {
+    "Northwest of Lake": "Crucible Knight with Sword",
+    "Murkwater Terminus": "Beastmen of Farum Azula",
+    "Stormhill": "Stoneskin Lords",
+    "Highroad": "Dragonkin Soldier",
+    "East of Lake": "Banished Knights",
+    "Mistwood": "Bloodhound Knight",
+    "Northeast Tunnel Entrance": "Beastly Brigade"
+  },
+  "82.0-Gnoster-Default": {
+    "Northwest of Lake": "Dragonkin Soldier",
+    "Murkwater Terminus": "Crucible Knight with Sword",
+    "Stormhill": "Crystalians",
+    "Highroad": "Omen",
+    "East of Lake": "Nox Warriors",
+    "Mistwood": "Grave Warden Duelist",
+    "Northeast Tunnel Entrance": "Banished Knights"
+  },
+  "83.0-Gnoster-Default": {
+    "Northwest of Lake": "Beastmen of Farum Azula",
+    "Murkwater Terminus": "Beastly Brigade",
+    "Stormhill": "Crystalians",
+    "Highroad": "Crucible Knight with Sword",
+    "East of Lake": "Stoneskin Lords",
+    "Mistwood": "Dragonkin Soldier",
+    "Northeast Tunnel Entrance": "Bloodhound Knight"
+  },
+  "84.0-Gnoster-Default": {
+    "Northwest of Lake": "Godskin Apostle",
+    "Murkwater Terminus": "Banished Knights",
+    "Stormhill": "Omen",
+    "Highroad": "Nox Warriors",
+    "East of Lake": "Crucible Knight with Spear",
+    "Mistwood": "Beastmen of Farum Azula",
+    "Northeast Tunnel Entrance": "Stoneskin Lords"
+  },
+  "85.0-Gnoster-Default": {
+    "Northwest of Lake": "Crucible Knight with Sword",
+    "Murkwater Terminus": "Grave Warden Duelist",
+    "Stormhill": "Nox Warriors",
+    "Highroad": "Crucible Knight with Spear",
+    "East of Lake": "Crystalians",
+    "Mistwood": "Godskin Duo",
+    "Northeast Tunnel Entrance": "Beastmen of Farum Azula"
+  },
+  "86.0-Gnoster-Default": {
+    "Northwest of Lake": "Beastly Brigade",
+    "Murkwater Terminus": "Godskin Noble",
+    "Stormhill": "Crystalians",
+    "Highroad": "Crucible Knight with Sword",
+    "East of Lake": "Banished Knights",
+    "Mistwood": "Omen",
+    "Northeast Tunnel Entrance": "Nox Warriors"
+  },
+  "87.0-Gnoster-Default": {
+    "Northwest of Lake": "Nox Warriors",
+    "Murkwater Terminus": "Crucible Knight with Sword",
+    "Stormhill": "Crystalians",
+    "Highroad": "Beastmen of Farum Azula",
+    "East of Lake": "Dragonkin Soldier",
+    "Mistwood": "Grave Warden Duelist",
+    "Northeast Tunnel Entrance": "Stoneskin Lords"
+  },
+  "88.0-Gnoster-Default": {
+    "Northwest of Lake": "Crucible Knight with Spear",
+    "Murkwater Terminus": "Omen",
+    "Stormhill": "Stoneskin Lords",
+    "Highroad": "Crystalians",
+    "East of Lake": "Grave Warden Duelist",
+    "Mistwood": "Bloodhound Knight",
+    "Northeast Tunnel Entrance": "Dragonkin Soldier"
+  },
+  "89.0-Gnoster-Default": {
+    "Northwest of Lake": "Banished Knights",
+    "Murkwater Terminus": "Crystalians",
+    "Stormhill": "Beastmen of Farum Azula",
+    "Highroad": "Crucible Knight with Spear",
+    "East of Lake": "Bloodhound Knight",
+    "Mistwood": "Crucible Knight with Sword",
+    "Northeast Tunnel Entrance": "Omen"
+  },
+  "90.0-Gnoster-Default": {
+    "Northwest of Lake": "Grave Warden Duelist",
+    "Murkwater Terminus": "Nox Warriors",
+    "Stormhill": "Omen",
+    "Highroad": "Bloodhound Knight",
+    "East of Lake": "Crucible Knight with Sword",
+    "Mistwood": "Stoneskin Lords",
+    "Northeast Tunnel Entrance": "Crucible Knight with Spear"
+  },
+  "91.0-Gnoster-Default": {
+    "Northwest of Lake": "Bloodhound Knight",
+    "Murkwater Terminus": "Dragonkin Soldier",
+    "Stormhill": "Godskin Duo",
+    "Highroad": "Beastmen of Farum Azula",
+    "East of Lake": "Godskin Apostle",
+    "Mistwood": "Banished Knights",
+    "Northeast Tunnel Entrance": "Grave Warden Duelist"
+  },
+  "92.0-Gnoster-Default": {
+    "Northwest of Lake": "Dragonkin Soldier",
+    "Murkwater Terminus": "Omen",
+    "Stormhill": "Stoneskin Lords",
+    "Highroad": "Banished Knights",
+    "East of Lake": "Godskin Noble",
+    "Mistwood": "Grave Warden Duelist",
+    "Northeast Tunnel Entrance": "Nox Warriors"
+  },
+  "93.0-Gnoster-Default": {
+    "Northwest of Lake": "Godskin Noble",
+    "Murkwater Terminus": "Grave Warden Duelist",
+    "Stormhill": "Omen",
+    "Highroad": "Crucible Knight with Sword",
+    "East of Lake": "Crystalians",
+    "Mistwood": "Stoneskin Lords",
+    "Northeast Tunnel Entrance": "Banished Knights"
+  },
+  "94.0-Gnoster-Default": {
+    "Northwest of Lake": "Dragonkin Soldier",
+    "Murkwater Terminus": "Grave Warden Duelist",
+    "Stormhill": "Crucible Knight with Spear",
+    "Highroad": "Crystalians",
+    "East of Lake": "Beastly Brigade",
+    "Mistwood": "Nox Warriors",
+    "Northeast Tunnel Entrance": "Stoneskin Lords"
+  },
+  "95.0-Gnoster-Default": {
+    "Northwest of Lake": "Beastmen of Farum Azula",
+    "Murkwater Terminus": "Beastly Brigade",
+    "Stormhill": "Stoneskin Lords",
+    "Highroad": "Nox Warriors",
+    "East of Lake": "Godskin Apostle",
+    "Mistwood": "Banished Knights",
+    "Northeast Tunnel Entrance": "Crucible Knight with Sword"
+  },
+  "96.0-Gnoster-Default": {
+    "Northwest of Lake": "Stoneskin Lords",
+    "Murkwater Terminus": "Nox Warriors",
+    "Stormhill": "Beastly Brigade",
+    "Highroad": "Dragonkin Soldier",
+    "East of Lake": "Banished Knights",
+    "Mistwood": "Grave Warden Duelist",
+    "Northeast Tunnel Entrance": "Godskin Apostle"
+  },
+  "97.0-Gnoster-Default": {
+    "Northwest of Lake": "Dragonkin Soldier",
+    "Murkwater Terminus": "Stoneskin Lords",
+    "Stormhill": "Nox Warriors",
+    "Highroad": "Crucible Knight with Spear",
+    "East of Lake": "Beastly Brigade",
+    "Mistwood": "Grave Warden Duelist",
+    "Northeast Tunnel Entrance": "Crystalians"
+  },
+  "98.0-Gnoster-Default": {
+    "Northwest of Lake": "Grave Warden Duelist",
+    "Murkwater Terminus": "Ancient Dragon",
+    "Stormhill": "Beastly Brigade",
+    "Highroad": "Godskin Noble",
+    "East of Lake": "Stoneskin Lords",
+    "Mistwood": "Nox Warriors",
+    "Northeast Tunnel Entrance": "Godskin Apostle"
+  },
+  "99.0-Gnoster-Default": {
+    "Northwest of Lake": "Godskin Noble",
+    "Murkwater Terminus": "Dragonkin Soldier",
+    "Stormhill": "Godskin Duo",
+    "Highroad": "Beastly Brigade",
+    "East of Lake": "Nox Warriors",
+    "Mistwood": "Crystalians",
+    "Northeast Tunnel Entrance": "Beastmen of Farum Azula"
+  },
+  "100.0-Gnoster-Mountaintop": {
+    "Northwest of Lake": "Banished Knights",
+    "East of Lake": "Grave Warden Duelist",
+    "Mistwood": "Godskin Noble",
+    "Northeast Tunnel Entrance": "Stoneskin Lords"
+  },
+  "101.0-Gnoster-Mountaintop": {
+    "Northwest of Lake": "Nox Warriors",
+    "East of Lake": "Crystalians",
+    "Mistwood": "Grave Warden Duelist",
+    "Northeast Tunnel Entrance": "Crucible Knight with Sword"
+  },
+  "102.0-Gnoster-Mountaintop": {
+    "Northwest of Lake": "Nox Warriors",
+    "East of Lake": "Godskin Apostle",
+    "Mistwood": "Crystalians",
+    "Northeast Tunnel Entrance": "Beastly Brigade"
+  },
+  "103.0-Gnoster-Mountaintop": {
+    "Northwest of Lake": "Stoneskin Lords",
+    "East of Lake": "Crystalians",
+    "Mistwood": "Beastly Brigade",
+    "Northeast Tunnel Entrance": "Crucible Knight with Sword"
+  },
+  "104.0-Gnoster-Mountaintop": {
+    "Northwest of Lake": "Dragonkin Soldier",
+    "East of Lake": "Nox Warriors",
+    "Mistwood": "Bloodhound Knight",
+    "Northeast Tunnel Entrance": "Beastmen of Farum Azula"
+  },
+  "105.0-Gnoster-Crater": {
+    "Northwest of Lake": "Godskin Apostle",
+    "Stormhill": "Nox Warriors",
+    "East of Lake": "Beastly Brigade",
+    "Mistwood": "Banished Knights"
+  },
+  "106.0-Gnoster-Crater": {
+    "Northwest of Lake": "Crucible Knight with Sword",
+    "Stormhill": "Omen",
+    "East of Lake": "Banished Knights",
+    "Mistwood": "Nox Warriors"
+  },
+  "107.0-Gnoster-Crater": {
+    "Northwest of Lake": "Crucible Knight with Sword",
+    "Stormhill": "Nox Warriors",
+    "East of Lake": "Omen",
+    "Mistwood": "Banished Knights"
+  },
+  "108.0-Gnoster-Crater": {
+    "Northwest of Lake": "Crystalians",
+    "Stormhill": "Omen",
+    "East of Lake": "Banished Knights",
+    "Mistwood": "Godskin Noble"
+  },
+  "109.0-Gnoster-Crater": {
+    "Northwest of Lake": "Nox Warriors",
+    "Stormhill": "Death Rite Bird",
+    "East of Lake": "Omen",
+    "Mistwood": "Crucible Knight with Spear"
+  },
+  "110.0-Gnoster-Rotted Woods": {
+    "Northwest of Lake": "Crucible Knight with Sword",
+    "Murkwater Terminus": "Beastmen of Farum Azula",
+    "Stormhill": "Godskin Apostle",
+    "Highroad": "Bloodhound Knight",
+    "Mistwood": "Stoneskin Lords",
+    "Northeast Tunnel Entrance": "Omen"
+  },
+  "111.0-Gnoster-Rotted Woods": {
+    "Northwest of Lake": "Grave Warden Duelist",
+    "Murkwater Terminus": "Nox Warriors",
+    "Stormhill": "Bloodhound Knight",
+    "Highroad": "Omen",
+    "Mistwood": "Godskin Noble",
+    "Northeast Tunnel Entrance": "Dragonkin Soldier"
+  },
+  "112.0-Gnoster-Rotted Woods": {
+    "Northwest of Lake": "Stoneskin Lords",
+    "Murkwater Terminus": "Death Rite Bird",
+    "Stormhill": "Nox Warriors",
+    "Highroad": "Godskin Noble",
+    "Mistwood": "Beastly Brigade",
+    "Northeast Tunnel Entrance": "Crucible Knight with Spear"
+  },
+  "113.0-Gnoster-Rotted Woods": {
+    "Northwest of Lake": "Beastmen of Farum Azula",
+    "Murkwater Terminus": "Stoneskin Lords",
+    "Stormhill": "Banished Knights",
+    "Highroad": "Crucible Knight with Sword",
+    "Mistwood": "Crucible Knight with Spear",
+    "Northeast Tunnel Entrance": "Death Rite Bird"
+  },
+  "114.0-Gnoster-Rotted Woods": {
+    "Northwest of Lake": "Omen",
+    "Murkwater Terminus": "Beastmen of Farum Azula",
+    "Stormhill": "Dragonkin Soldier",
+    "Highroad": "Bloodhound Knight",
+    "Mistwood": "Crystalians",
+    "Northeast Tunnel Entrance": "Crucible Knight with Sword"
+  },
+  "115.0-Gnoster-Noklateo": {
+    "Murkwater Terminus": "Omen",
+    "Stormhill": "Bloodhound Knight",
+    "Highroad": "Beastmen of Farum Azula",
+    "East of Lake": "Godskin Noble",
+    "Mistwood": "Dragonkin Soldier",
+    "Northeast Tunnel Entrance": "Stoneskin Lords"
+  },
+  "116.0-Gnoster-Noklateo": {
+    "Murkwater Terminus": "Crystalians",
+    "Stormhill": "Grave Warden Duelist",
+    "Highroad": "Crucible Knight with Sword",
+    "East of Lake": "Nox Warriors",
+    "Mistwood": "Godskin Noble",
+    "Northeast Tunnel Entrance": "Beastmen of Farum Azula"
+  },
+  "117.0-Gnoster-Noklateo": {
+    "Murkwater Terminus": "Banished Knights",
+    "Stormhill": "Beastly Brigade",
+    "Highroad": "Godskin Noble",
+    "East of Lake": "Bloodhound Knight",
+    "Mistwood": "Beastmen of Farum Azula",
+    "Northeast Tunnel Entrance": "Crucible Knight with Spear"
+  },
+  "118.0-Gnoster-Noklateo": {
+    "Murkwater Terminus": "Godskin Duo",
+    "Stormhill": "Nox Warriors",
+    "Highroad": "Grave Warden Duelist",
+    "East of Lake": "Crucible Knight with Sword",
+    "Mistwood": "Banished Knights",
+    "Northeast Tunnel Entrance": "Godskin Noble"
+  },
+  "119.0-Gnoster-Noklateo": {
+    "Murkwater Terminus": "Beastly Brigade",
+    "Stormhill": "Nox Warriors",
+    "Highroad": "Crucible Knight with Sword",
+    "East of Lake": "Beastmen of Farum Azula",
+    "Mistwood": "Godskin Noble",
+    "Northeast Tunnel Entrance": "Bloodhound Knight"
+  },
+  "120.0-Maris-Default": {
+    "Northwest of Lake": "Nox Warriors",
+    "Murkwater Terminus": "Omen",
+    "Stormhill": "Dragonkin Soldier",
+    "Highroad": "Stoneskin Lords",
+    "East of Lake": "Banished Knights",
+    "Mistwood": "Beastmen of Farum Azula",
+    "Northeast Tunnel Entrance": "Crucible Knight with Sword"
+  },
+  "121.0-Maris-Default": {
+    "Northwest of Lake": "Banished Knights",
+    "Murkwater Terminus": "Beastly Brigade",
+    "Stormhill": "Nox Warriors",
+    "Highroad": "Stoneskin Lords",
+    "East of Lake": "Crucible Knight with Spear",
+    "Mistwood": "Crucible Knight with Sword",
+    "Northeast Tunnel Entrance": "Omen"
+  },
+  "122.0-Maris-Default": {
+    "Northwest of Lake": "Beastly Brigade",
+    "Murkwater Terminus": "Grave Warden Duelist",
+    "Stormhill": "Crucible Knight with Sword",
+    "Highroad": "Banished Knights",
+    "East of Lake": "Nox Warriors",
+    "Mistwood": "Stoneskin Lords",
+    "Northeast Tunnel Entrance": "Dragonkin Soldier"
+  },
+  "123.0-Maris-Default": {
+    "Northwest of Lake": "Grave Warden Duelist",
+    "Murkwater Terminus": "Stoneskin Lords",
+    "Stormhill": "Beastly Brigade",
+    "Highroad": "Nox Warriors",
+    "East of Lake": "Crucible Knight with Spear",
+    "Mistwood": "Crystalians",
+    "Northeast Tunnel Entrance": "Crucible Knight with Sword"
+  },
+  "124.0-Maris-Default": {
+    "Northwest of Lake": "Crystalians",
+    "Murkwater Terminus": "Crucible Knight with Spear",
+    "Stormhill": "Beastly Brigade",
+    "Highroad": "Omen",
+    "East of Lake": "Godskin Noble",
+    "Mistwood": "Banished Knights",
+    "Northeast Tunnel Entrance": "Stoneskin Lords"
+  },
+  "125.0-Maris-Default": {
+    "Northwest of Lake": "Omen",
+    "Murkwater Terminus": "Crucible Knight with Spear",
+    "Stormhill": "Stoneskin Lords",
+    "Highroad": "Dragonkin Soldier",
+    "East of Lake": "Crystalians",
+    "Mistwood": "Beastly Brigade",
+    "Northeast Tunnel Entrance": "Bloodhound Knight"
+  },
+  "126.0-Maris-Default": {
+    "Northwest of Lake": "Beastly Brigade",
+    "Murkwater Terminus": "Stoneskin Lords",
+    "Stormhill": "Godskin Noble",
+    "Highroad": "Crystalians",
+    "East of Lake": "Dragonkin Soldier",
+    "Mistwood": "Bloodhound Knight",
+    "Northeast Tunnel Entrance": "Grave Warden Duelist"
+  },
+  "127.0-Maris-Default": {
+    "Northwest of Lake": "Beastly Brigade",
+    "Murkwater Terminus": "Crucible Knight with Sword",
+    "Stormhill": "Nox Warriors",
+    "Highroad": "Beastmen of Farum Azula",
+    "East of Lake": "Godskin Noble",
+    "Mistwood": "Stoneskin Lords",
+    "Northeast Tunnel Entrance": "Crystalians"
+  },
+  "128.0-Maris-Default": {
+    "Northwest of Lake": "Crucible Knight with Sword",
+    "Murkwater Terminus": "Crystalians",
+    "Stormhill": "Crucible Knight with Spear",
+    "Highroad": "Banished Knights",
+    "East of Lake": "Grave Warden Duelist",
+    "Mistwood": "Beastmen of Farum Azula",
+    "Northeast Tunnel Entrance": "Stoneskin Lords"
+  },
+  "129.0-Maris-Default": {
+    "Northwest of Lake": "Crystalians",
+    "Murkwater Terminus": "Grave Warden Duelist",
+    "Stormhill": "Crucible Knight with Spear",
+    "Highroad": "Stoneskin Lords",
+    "East of Lake": "Nox Warriors",
+    "Mistwood": "Godskin Apostle",
+    "Northeast Tunnel Entrance": "Beastmen of Farum Azula"
+  },
+  "130.0-Maris-Default": {
+    "Northwest of Lake": "Godskin Noble",
+    "Murkwater Terminus": "Grave Warden Duelist",
+    "Stormhill": "Banished Knights",
+    "Highroad": "Crucible Knight with Spear",
+    "East of Lake": "Beastly Brigade",
+    "Mistwood": "Bloodhound Knight",
+    "Northeast Tunnel Entrance": "Godskin Duo"
+  },
+  "131.0-Maris-Default": {
+    "Northwest of Lake": "Stoneskin Lords",
+    "Murkwater Terminus": "Beastmen of Farum Azula",
+    "Stormhill": "Crucible Knight with Spear",
+    "Highroad": "Banished Knights",
+    "East of Lake": "Omen",
+    "Mistwood": "Godskin Noble",
+    "Northeast Tunnel Entrance": "Crystalians"
+  },
+  "132.0-Maris-Default": {
+    "Northwest of Lake": "Crystalians",
+    "Murkwater Terminus": "Dragonkin Soldier",
+    "Stormhill": "Crucible Knight with Sword",
+    "Highroad": "Nox Warriors",
+    "East of Lake": "Grave Warden Duelist",
+    "Mistwood": "Ancient Dragon",
+    "Northeast Tunnel Entrance": "Beastly Brigade"
+  },
+  "133.0-Maris-Default": {
+    "Northwest of Lake": "Grave Warden Duelist",
+    "Murkwater Terminus": "Bloodhound Knight",
+    "Stormhill": "Nox Warriors",
+    "Highroad": "Godskin Noble",
+    "East of Lake": "Banished Knights",
+    "Mistwood": "Crucible Knight with Sword",
+    "Northeast Tunnel Entrance": "Beastmen of Farum Azula"
+  },
+  "134.0-Maris-Default": {
+    "Northwest of Lake": "Grave Warden Duelist",
+    "Murkwater Terminus": "Dragonkin Soldier",
+    "Stormhill": "Bloodhound Knight",
+    "Highroad": "Crucible Knight with Spear",
+    "East of Lake": "Beastly Brigade",
+    "Mistwood": "Crystalians",
+    "Northeast Tunnel Entrance": "Stoneskin Lords"
+  },
+  "135.0-Maris-Default": {
+    "Northwest of Lake": "Stoneskin Lords",
+    "Murkwater Terminus": "Bloodhound Knight",
+    "Stormhill": "Godskin Noble",
+    "Highroad": "Omen",
+    "East of Lake": "Godskin Apostle",
+    "Mistwood": "Crystalians",
+    "Northeast Tunnel Entrance": "Beastmen of Farum Azula"
+  },
+  "136.0-Maris-Default": {
+    "Northwest of Lake": "Godskin Apostle",
+    "Murkwater Terminus": "Beastly Brigade",
+    "Stormhill": "Bloodhound Knight",
+    "Highroad": "Grave Warden Duelist",
+    "East of Lake": "Stoneskin Lords",
+    "Mistwood": "Death Rite Bird",
+    "Northeast Tunnel Entrance": "Crucible Knight with Sword"
+  },
+  "137.0-Maris-Default": {
+    "Northwest of Lake": "Crystalians",
+    "Murkwater Terminus": "Grave Warden Duelist",
+    "Stormhill": "Bloodhound Knight",
+    "Highroad": "Godskin Apostle",
+    "East of Lake": "Omen",
+    "Mistwood": "Banished Knights",
+    "Northeast Tunnel Entrance": "Dragonkin Soldier"
+  },
+  "138.0-Maris-Default": {
+    "Northwest of Lake": "Crystalians",
+    "Murkwater Terminus": "Crucible Knight with Spear",
+    "Stormhill": "Godskin Duo",
+    "Highroad": "Omen",
+    "East of Lake": "Beastly Brigade",
+    "Mistwood": "Godskin Apostle",
+    "Northeast Tunnel Entrance": "Banished Knights"
+  },
+  "139.0-Maris-Default": {
+    "Northwest of Lake": "Grave Warden Duelist",
+    "Murkwater Terminus": "Ancient Dragon",
+    "Stormhill": "Nox Warriors",
+    "Highroad": "Crucible Knight with Sword",
+    "East of Lake": "Dragonkin Soldier",
+    "Mistwood": "Beastly Brigade",
+    "Northeast Tunnel Entrance": "Crystalians"
+  },
+  "140.0-Maris-Mountaintop": {
+    "Northwest of Lake": "Godskin Apostle",
+    "East of Lake": "Crystalians",
+    "Mistwood": "Bloodhound Knight",
+    "Northeast Tunnel Entrance": "Omen"
+  },
+  "141.0-Maris-Mountaintop": {
+    "Northwest of Lake": "Crucible Knight with Sword",
+    "East of Lake": "Beastmen of Farum Azula",
+    "Mistwood": "Crystalians",
+    "Northeast Tunnel Entrance": "Ancient Dragon"
+  },
+  "142.0-Maris-Mountaintop": {
+    "Northwest of Lake": "Stoneskin Lords",
+    "East of Lake": "Godskin Noble",
+    "Mistwood": "Crystalians",
+    "Northeast Tunnel Entrance": "Grave Warden Duelist"
+  },
+  "143.0-Maris-Mountaintop": {
+    "Northwest of Lake": "Banished Knights",
+    "East of Lake": "Godskin Apostle",
+    "Mistwood": "Grave Warden Duelist",
+    "Northeast Tunnel Entrance": "Nox Warriors"
+  },
+  "144.0-Maris-Mountaintop": {
+    "Northwest of Lake": "Beastmen of Farum Azula",
+    "East of Lake": "Bloodhound Knight",
+    "Mistwood": "Stoneskin Lords",
+    "Northeast Tunnel Entrance": "Godskin Apostle"
+  },
+  "145.0-Maris-Crater": {
+    "Northwest of Lake": "Stoneskin Lords",
+    "Stormhill": "Godskin Noble",
+    "East of Lake": "Banished Knights",
+    "Mistwood": "Beastly Brigade"
+  },
+  "146.0-Maris-Crater": {
+    "Northwest of Lake": "Crucible Knight with Spear",
+    "Stormhill": "Nox Warriors",
+    "East of Lake": "Beastmen of Farum Azula",
+    "Mistwood": "Crystalians"
+  },
+  "147.0-Maris-Crater": {
+    "Northwest of Lake": "Banished Knights",
+    "Stormhill": "Beastmen of Farum Azula",
+    "East of Lake": "Dragonkin Soldier",
+    "Mistwood": "Bloodhound Knight"
+  },
+  "148.0-Maris-Crater": {
+    "Northwest of Lake": "Bloodhound Knight",
+    "Stormhill": "Omen",
+    "East of Lake": "Crystalians",
+    "Mistwood": "Dragonkin Soldier"
+  },
+  "149.0-Maris-Crater": {
+    "Northwest of Lake": "Crystalians",
+    "Stormhill": "Godskin Noble",
+    "East of Lake": "Stoneskin Lords",
+    "Mistwood": "Omen"
+  },
+  "150.0-Maris-Rotted Woods": {
+    "Northwest of Lake": "Beastmen of Farum Azula",
+    "Murkwater Terminus": "Godskin Noble",
+    "Stormhill": "Banished Knights",
+    "Highroad": "Crucible Knight with Spear",
+    "Mistwood": "Stoneskin Lords",
+    "Northeast Tunnel Entrance": "Grave Warden Duelist"
+  },
+  "151.0-Maris-Rotted Woods": {
+    "Northwest of Lake": "Bloodhound Knight",
+    "Murkwater Terminus": "Nox Warriors",
+    "Stormhill": "Grave Warden Duelist",
+    "Highroad": "Crucible Knight with Sword",
+    "Mistwood": "Crucible Knight with Spear",
+    "Northeast Tunnel Entrance": "Omen"
+  },
+  "152.0-Maris-Rotted Woods": {
+    "Northwest of Lake": "Godskin Noble",
+    "Murkwater Terminus": "Banished Knights",
+    "Stormhill": "Nox Warriors",
+    "Highroad": "Beastmen of Farum Azula",
+    "Mistwood": "Godskin Apostle",
+    "Northeast Tunnel Entrance": "Grave Warden Duelist"
+  },
+  "153.0-Maris-Rotted Woods": {
+    "Northwest of Lake": "Stoneskin Lords",
+    "Murkwater Terminus": "Godskin Noble",
+    "Stormhill": "Crystalians",
+    "Highroad": "Dragonkin Soldier",
+    "Mistwood": "Beastmen of Farum Azula",
+    "Northeast Tunnel Entrance": "Beastly Brigade"
+  },
+  "154.0-Maris-Rotted Woods": {
+    "Northwest of Lake": "Godskin Noble",
+    "Murkwater Terminus": "Stoneskin Lords",
+    "Stormhill": "Beastly Brigade",
+    "Highroad": "Omen",
+    "Mistwood": "Godskin Apostle",
+    "Northeast Tunnel Entrance": "Banished Knights"
+  },
+  "155.0-Maris-Noklateo": {
+    "Murkwater Terminus": "Godskin Noble",
+    "Stormhill": "Banished Knights",
+    "Highroad": "Crystalians",
+    "East of Lake": "Beastmen of Farum Azula",
+    "Mistwood": "Dragonkin Soldier",
+    "Northeast Tunnel Entrance": "Beastly Brigade"
+  },
+  "156.0-Maris-Noklateo": {
+    "Murkwater Terminus": "Beastmen of Farum Azula",
+    "Stormhill": "Beastly Brigade",
+    "Highroad": "Stoneskin Lords",
+    "East of Lake": "Crucible Knight with Sword",
+    "Mistwood": "Godskin Noble",
+    "Northeast Tunnel Entrance": "Nox Warriors"
+  },
+  "157.0-Maris-Noklateo": {
+    "Murkwater Terminus": "Grave Warden Duelist",
+    "Stormhill": "Godskin Noble",
+    "Highroad": "Nox Warriors",
+    "East of Lake": "Stoneskin Lords",
+    "Mistwood": "Crucible Knight with Spear",
+    "Northeast Tunnel Entrance": "Beastmen of Farum Azula"
+  },
+  "158.0-Maris-Noklateo": {
+    "Murkwater Terminus": "Beastmen of Farum Azula",
+    "Stormhill": "Dragonkin Soldier",
+    "Highroad": "Nox Warriors",
+    "East of Lake": "Stoneskin Lords",
+    "Mistwood": "Omen",
+    "Northeast Tunnel Entrance": "Godskin Apostle"
+  },
+  "159.0-Maris-Noklateo": {
+    "Murkwater Terminus": "Omen",
+    "Stormhill": "Godskin Apostle",
+    "Highroad": "Bloodhound Knight",
+    "East of Lake": "Dragonkin Soldier",
+    "Mistwood": "Stoneskin Lords",
+    "Northeast Tunnel Entrance": "Death Rite Bird"
+  },
+  "160.0-Libra-Default": {
+    "Northwest of Lake": "Bloodhound Knight",
+    "Murkwater Terminus": "Banished Knights",
+    "Stormhill": "Stoneskin Lords",
+    "Highroad": "Dragonkin Soldier",
+    "East of Lake": "Beastly Brigade",
+    "Mistwood": "Crucible Knight with Sword",
+    "Northeast Tunnel Entrance": "Beastmen of Farum Azula"
+  },
+  "161.0-Libra-Default": {
+    "Northwest of Lake": "Bloodhound Knight",
+    "Murkwater Terminus": "Nox Warriors",
+    "Stormhill": "Stoneskin Lords",
+    "Highroad": "Beastly Brigade",
+    "East of Lake": "Dragonkin Soldier",
+    "Mistwood": "Godskin Noble",
+    "Northeast Tunnel Entrance": "Beastmen of Farum Azula"
+  },
+  "162.0-Libra-Default": {
+    "Northwest of Lake": "Beastmen of Farum Azula",
+    "Murkwater Terminus": "Omen",
+    "Stormhill": "Godskin Apostle",
+    "Highroad": "Godskin Noble",
+    "East of Lake": "Crystalians",
+    "Mistwood": "Nox Warriors",
+    "Northeast Tunnel Entrance": "Stoneskin Lords"
+  },
+  "163.0-Libra-Default": {
+    "Northwest of Lake": "Omen",
+    "Murkwater Terminus": "Crystalians",
+    "Stormhill": "Stoneskin Lords",
+    "Highroad": "Crucible Knight with Spear",
+    "East of Lake": "Beastmen of Farum Azula",
+    "Mistwood": "Godskin Apostle",
+    "Northeast Tunnel Entrance": "Nox Warriors"
+  },
+  "164.0-Libra-Default": {
+    "Northwest of Lake": "Grave Warden Duelist",
+    "Murkwater Terminus": "Banished Knights",
+    "Stormhill": "Godskin Apostle",
+    "Highroad": "Dragonkin Soldier",
+    "East of Lake": "Beastmen of Farum Azula",
+    "Mistwood": "Ancient Dragon",
+    "Northeast Tunnel Entrance": "Crystalians"
+  },
+  "165.0-Libra-Default": {
+    "Northwest of Lake": "Bloodhound Knight",
+    "Murkwater Terminus": "Godskin Apostle",
+    "Stormhill": "Grave Warden Duelist",
+    "Highroad": "Nox Warriors",
+    "East of Lake": "Omen",
+    "Mistwood": "Crucible Knight with Sword",
+    "Northeast Tunnel Entrance": "Stoneskin Lords"
+  },
+  "166.0-Libra-Default": {
+    "Northwest of Lake": "Godskin Apostle",
+    "Murkwater Terminus": "Beastly Brigade",
+    "Stormhill": "Bloodhound Knight",
+    "Highroad": "Crystalians",
+    "East of Lake": "Crucible Knight with Spear",
+    "Mistwood": "Grave Warden Duelist",
+    "Northeast Tunnel Entrance": "Nox Warriors"
+  },
+  "167.0-Libra-Default": {
+    "Northwest of Lake": "Bloodhound Knight",
+    "Murkwater Terminus": "Crucible Knight with Sword",
+    "Stormhill": "Omen",
+    "Highroad": "Beastmen of Farum Azula",
+    "East of Lake": "Dragonkin Soldier",
+    "Mistwood": "Banished Knights",
+    "Northeast Tunnel Entrance": "Stoneskin Lords"
+  },
+  "168.0-Libra-Default": {
+    "Northwest of Lake": "Nox Warriors",
+    "Murkwater Terminus": "Crystalians",
+    "Stormhill": "Beastly Brigade",
+    "Highroad": "Crucible Knight with Spear",
+    "East of Lake": "Omen",
+    "Mistwood": "Godskin Noble",
+    "Northeast Tunnel Entrance": "Bloodhound Knight"
+  },
+  "169.0-Libra-Default": {
+    "Northwest of Lake": "Dragonkin Soldier",
+    "Murkwater Terminus": "Stoneskin Lords",
+    "Stormhill": "Grave Warden Duelist",
+    "Highroad": "Omen",
+    "East of Lake": "Crystalians",
+    "Mistwood": "Godskin Apostle",
+    "Northeast Tunnel Entrance": "Nox Warriors"
+  },
+  "170.0-Libra-Default": {
+    "Northwest of Lake": "Godskin Apostle",
+    "Murkwater Terminus": "Nox Warriors",
+    "Stormhill": "Stoneskin Lords",
+    "Highroad": "Omen",
+    "East of Lake": "Bloodhound Knight",
+    "Mistwood": "Crucible Knight with Spear",
+    "Northeast Tunnel Entrance": "Beastmen of Farum Azula"
+  },
+  "171.0-Libra-Default": {
+    "Northwest of Lake": "Stoneskin Lords",
+    "Murkwater Terminus": "Godskin Duo",
+    "Stormhill": "Omen",
+    "Highroad": "Nox Warriors",
+    "East of Lake": "Beastly Brigade",
+    "Mistwood": "Crucible Knight with Sword",
+    "Northeast Tunnel Entrance": "Crucible Knight with Spear"
+  },
+  "172.0-Libra-Default": {
+    "Northwest of Lake": "Beastmen of Farum Azula",
+    "Murkwater Terminus": "Beastly Brigade",
+    "Stormhill": "Crucible Knight with Sword",
+    "Highroad": "Stoneskin Lords",
+    "East of Lake": "Banished Knights",
+    "Mistwood": "Death Rite Bird",
+    "Northeast Tunnel Entrance": "Dragonkin Soldier"
+  },
+  "173.0-Libra-Default": {
+    "Northwest of Lake": "Omen",
+    "Murkwater Terminus": "Banished Knights",
+    "Stormhill": "Beastmen of Farum Azula",
+    "Highroad": "Bloodhound Knight",
+    "East of Lake": "Crucible Knight with Sword",
+    "Mistwood": "Death Rite Bird",
+    "Northeast Tunnel Entrance": "Dragonkin Soldier"
+  },
+  "174.0-Libra-Default": {
+    "Northwest of Lake": "Beastly Brigade",
+    "Murkwater Terminus": "Death Rite Bird",
+    "Stormhill": "Nox Warriors",
+    "Highroad": "Omen",
+    "East of Lake": "Crucible Knight with Sword",
+    "Mistwood": "Crystalians",
+    "Northeast Tunnel Entrance": "Crucible Knight with Spear"
+  },
+  "175.0-Libra-Default": {
+    "Northwest of Lake": "Omen",
+    "Murkwater Terminus": "Beastly Brigade",
+    "Stormhill": "Stoneskin Lords",
+    "Highroad": "Banished Knights",
+    "East of Lake": "Godskin Noble",
+    "Mistwood": "Crystalians",
+    "Northeast Tunnel Entrance": "Crucible Knight with Spear"
+  },
+  "176.0-Libra-Default": {
+    "Northwest of Lake": "Bloodhound Knight",
+    "Murkwater Terminus": "Crystalians",
+    "Stormhill": "Beastly Brigade",
+    "Highroad": "Godskin Noble",
+    "East of Lake": "Omen",
+    "Mistwood": "Crucible Knight with Sword",
+    "Northeast Tunnel Entrance": "Nox Warriors"
+  },
+  "177.0-Libra-Default": {
+    "Northwest of Lake": "Banished Knights",
+    "Murkwater Terminus": "Bloodhound Knight",
+    "Stormhill": "Crucible Knight with Sword",
+    "Highroad": "Grave Warden Duelist",
+    "East of Lake": "Stoneskin Lords",
+    "Mistwood": "Godskin Noble",
+    "Northeast Tunnel Entrance": "Beastmen of Farum Azula"
+  },
+  "178.0-Libra-Default": {
+    "Northwest of Lake": "Grave Warden Duelist",
+    "Murkwater Terminus": "Godskin Apostle",
+    "Stormhill": "Crystalians",
+    "Highroad": "Godskin Noble",
+    "East of Lake": "Beastly Brigade",
+    "Mistwood": "Banished Knights",
+    "Northeast Tunnel Entrance": "Nox Warriors"
+  },
+  "179.0-Libra-Default": {
+    "Northwest of Lake": "Beastmen of Farum Azula",
+    "Murkwater Terminus": "Godskin Noble",
+    "Stormhill": "Banished Knights",
+    "Highroad": "Stoneskin Lords",
+    "East of Lake": "Godskin Apostle",
+    "Mistwood": "Grave Warden Duelist",
+    "Northeast Tunnel Entrance": "Bloodhound Knight"
+  },
+  "180.0-Libra-Mountaintop": {
+    "Northwest of Lake": "Banished Knights",
+    "East of Lake": "Nox Warriors",
+    "Mistwood": "Godskin Noble",
+    "Northeast Tunnel Entrance": "Beastmen of Farum Azula"
+  },
+  "181.0-Libra-Mountaintop": {
+    "Northwest of Lake": "Bloodhound Knight",
+    "East of Lake": "Godskin Noble",
+    "Mistwood": "Nox Warriors",
+    "Northeast Tunnel Entrance": "Beastly Brigade"
+  },
+  "182.0-Libra-Mountaintop": {
+    "Northwest of Lake": "Godskin Apostle",
+    "East of Lake": "Stoneskin Lords",
+    "Mistwood": "Banished Knights",
+    "Northeast Tunnel Entrance": "Grave Warden Duelist"
+  },
+  "183.0-Libra-Mountaintop": {
+    "Northwest of Lake": "Beastmen of Farum Azula",
+    "East of Lake": "Bloodhound Knight",
+    "Mistwood": "Crystalians",
+    "Northeast Tunnel Entrance": "Crucible Knight with Sword"
+  },
+  "184.0-Libra-Mountaintop": {
+    "Northwest of Lake": "Nox Warriors",
+    "East of Lake": "Crystalians",
+    "Mistwood": "Grave Warden Duelist",
+    "Northeast Tunnel Entrance": "Crucible Knight with Spear"
+  },
+  "185.0-Libra-Crater": {
+    "Northwest of Lake": "Banished Knights",
+    "Stormhill": "Crucible Knight with Sword",
+    "East of Lake": "Nox Warriors",
+    "Mistwood": "Beastly Brigade"
+  },
+  "186.0-Libra-Crater": {
+    "Northwest of Lake": "Grave Warden Duelist",
+    "Stormhill": "Stoneskin Lords",
+    "East of Lake": "Crucible Knight with Sword",
+    "Mistwood": "Banished Knights"
+  },
+  "187.0-Libra-Crater": {
+    "Northwest of Lake": "Nox Warriors",
+    "Stormhill": "Godskin Apostle",
+    "East of Lake": "Beastly Brigade",
+    "Mistwood": "Banished Knights"
+  },
+  "188.0-Libra-Crater": {
+    "Northwest of Lake": "Crucible Knight with Spear",
+    "Stormhill": "Nox Warriors",
+    "East of Lake": "Bloodhound Knight",
+    "Mistwood": "Beastly Brigade"
+  },
+  "189.0-Libra-Crater": {
+    "Northwest of Lake": "Crucible Knight with Sword",
+    "Stormhill": "Stoneskin Lords",
+    "East of Lake": "Beastmen of Farum Azula",
+    "Mistwood": "Bloodhound Knight"
+  },
+  "190.0-Libra-Rotted Woods": {
+    "Northwest of Lake": "Omen",
+    "Murkwater Terminus": "Crucible Knight with Sword",
+    "Stormhill": "Dragonkin Soldier",
+    "Highroad": "Bloodhound Knight",
+    "Mistwood": "Nox Warriors",
+    "Northeast Tunnel Entrance": "Beastly Brigade"
+  },
+  "191.0-Libra-Rotted Woods": {
+    "Northwest of Lake": "Godskin Apostle",
+    "Murkwater Terminus": "Banished Knights",
+    "Stormhill": "Ancient Dragon",
+    "Highroad": "Bloodhound Knight",
+    "Mistwood": "Godskin Noble",
+    "Northeast Tunnel Entrance": "Omen"
+  },
+  "192.0-Libra-Rotted Woods": {
+    "Northwest of Lake": "Banished Knights",
+    "Murkwater Terminus": "Bloodhound Knight",
+    "Stormhill": "Beastly Brigade",
+    "Highroad": "Godskin Apostle",
+    "Mistwood": "Godskin Noble",
+    "Northeast Tunnel Entrance": "Grave Warden Duelist"
+  },
+  "193.0-Libra-Rotted Woods": {
+    "Northwest of Lake": "Crucible Knight with Sword",
+    "Murkwater Terminus": "Death Rite Bird",
+    "Stormhill": "Stoneskin Lords",
+    "Highroad": "Grave Warden Duelist",
+    "Mistwood": "Nox Warriors",
+    "Northeast Tunnel Entrance": "Dragonkin Soldier"
+  },
+  "194.0-Libra-Rotted Woods": {
+    "Northwest of Lake": "Nox Warriors",
+    "Murkwater Terminus": "Omen",
+    "Stormhill": "Godskin Apostle",
+    "Highroad": "Godskin Noble",
+    "Mistwood": "Bloodhound Knight",
+    "Northeast Tunnel Entrance": "Beastly Brigade"
+  },
+  "195.0-Libra-Noklateo": {
+    "Murkwater Terminus": "Nox Warriors",
+    "Stormhill": "Godskin Apostle",
+    "Highroad": "Beastly Brigade",
+    "East of Lake": "Grave Warden Duelist",
+    "Mistwood": "Banished Knights",
+    "Northeast Tunnel Entrance": "Crucible Knight with Sword"
+  },
+  "196.0-Libra-Noklateo": {
+    "Murkwater Terminus": "Ancient Dragon",
+    "Stormhill": "Crucible Knight with Spear",
+    "Highroad": "Bloodhound Knight",
+    "East of Lake": "Nox Warriors",
+    "Mistwood": "Omen",
+    "Northeast Tunnel Entrance": "Crucible Knight with Sword"
+  },
+  "197.0-Libra-Noklateo": {
+    "Murkwater Terminus": "Crystalians",
+    "Stormhill": "Godskin Duo",
+    "Highroad": "Godskin Apostle",
+    "East of Lake": "Bloodhound Knight",
+    "Mistwood": "Omen",
+    "Northeast Tunnel Entrance": "Godskin Noble"
+  },
+  "198.0-Libra-Noklateo": {
+    "Murkwater Terminus": "Beastmen of Farum Azula",
+    "Stormhill": "Godskin Apostle",
+    "Highroad": "Beastly Brigade",
+    "East of Lake": "Nox Warriors",
+    "Mistwood": "Stoneskin Lords",
+    "Northeast Tunnel Entrance": "Crucible Knight with Sword"
+  },
+  "199.0-Libra-Noklateo": {
+    "Murkwater Terminus": "Grave Warden Duelist",
+    "Stormhill": "Bloodhound Knight",
+    "Highroad": "Crucible Knight with Spear",
+    "East of Lake": "Stoneskin Lords",
+    "Mistwood": "Godskin Noble",
+    "Northeast Tunnel Entrance": "Omen"
+  },
+  "200.0-Fulghor-Default": {
+    "Northwest of Lake": "Beastmen of Farum Azula",
+    "Murkwater Terminus": "Banished Knights",
+    "Stormhill": "Stoneskin Lords",
+    "Highroad": "Beastly Brigade",
+    "East of Lake": "Crucible Knight with Spear",
+    "Mistwood": "Godskin Apostle",
+    "Northeast Tunnel Entrance": "Godskin Duo"
+  },
+  "201.0-Fulghor-Default": {
+    "Northwest of Lake": "Banished Knights",
+    "Murkwater Terminus": "Omen",
+    "Stormhill": "Nox Warriors",
+    "Highroad": "Godskin Noble",
+    "East of Lake": "Beastly Brigade",
+    "Mistwood": "Crystalians",
+    "Northeast Tunnel Entrance": "Crucible Knight with Spear"
+  },
+  "202.0-Fulghor-Default": {
+    "Northwest of Lake": "Omen",
+    "Murkwater Terminus": "Crucible Knight with Sword",
+    "Stormhill": "Stoneskin Lords",
+    "Highroad": "Dragonkin Soldier",
+    "East of Lake": "Beastly Brigade",
+    "Mistwood": "Ancient Dragon",
+    "Northeast Tunnel Entrance": "Nox Warriors"
+  },
+  "203.0-Fulghor-Default": {
+    "Northwest of Lake": "Beastmen of Farum Azula",
+    "Murkwater Terminus": "Crucible Knight with Sword",
+    "Stormhill": "Bloodhound Knight",
+    "Highroad": "Beastly Brigade",
+    "East of Lake": "Stoneskin Lords",
+    "Mistwood": "Godskin Apostle",
+    "Northeast Tunnel Entrance": "Nox Warriors"
+  },
+  "204.0-Fulghor-Default": {
+    "Northwest of Lake": "Stoneskin Lords",
+    "Murkwater Terminus": "Beastmen of Farum Azula",
+    "Stormhill": "Godskin Noble",
+    "Highroad": "Omen",
+    "East of Lake": "Bloodhound Knight",
+    "Mistwood": "Crucible Knight with Sword",
+    "Northeast Tunnel Entrance": "Crystalians"
+  },
+  "205.0-Fulghor-Default": {
+    "Northwest of Lake": "Grave Warden Duelist",
+    "Murkwater Terminus": "Ancient Dragon",
+    "Stormhill": "Omen",
+    "Highroad": "Banished Knights",
+    "East of Lake": "Crucible Knight with Spear",
+    "Mistwood": "Godskin Noble",
+    "Northeast Tunnel Entrance": "Crystalians"
+  },
+  "206.0-Fulghor-Default": {
+    "Northwest of Lake": "Bloodhound Knight",
+    "Murkwater Terminus": "Stoneskin Lords",
+    "Stormhill": "Beastmen of Farum Azula",
+    "Highroad": "Dragonkin Soldier",
+    "East of Lake": "Crystalians",
+    "Mistwood": "Godskin Apostle",
+    "Northeast Tunnel Entrance": "Beastly Brigade"
+  },
+  "207.0-Fulghor-Default": {
+    "Northwest of Lake": "Crucible Knight with Spear",
+    "Murkwater Terminus": "Nox Warriors",
+    "Stormhill": "Stoneskin Lords",
+    "Highroad": "Bloodhound Knight",
+    "East of Lake": "Beastmen of Farum Azula",
+    "Mistwood": "Godskin Apostle",
+    "Northeast Tunnel Entrance": "Grave Warden Duelist"
+  },
+  "208.0-Fulghor-Default": {
+    "Northwest of Lake": "Godskin Noble",
+    "Murkwater Terminus": "Ancient Dragon",
+    "Stormhill": "Nox Warriors",
+    "Highroad": "Omen",
+    "East of Lake": "Banished Knights",
+    "Mistwood": "Beastmen of Farum Azula",
+    "Northeast Tunnel Entrance": "Crucible Knight with Sword"
+  },
+  "209.0-Fulghor-Default": {
+    "Northwest of Lake": "Nox Warriors",
+    "Murkwater Terminus": "Crystalians",
+    "Stormhill": "Godskin Apostle",
+    "Highroad": "Beastmen of Farum Azula",
+    "East of Lake": "Bloodhound Knight",
+    "Mistwood": "Grave Warden Duelist",
+    "Northeast Tunnel Entrance": "Dragonkin Soldier"
+  },
+  "210.0-Fulghor-Default": {
+    "Northwest of Lake": "Dragonkin Soldier",
+    "Murkwater Terminus": "Grave Warden Duelist",
+    "Stormhill": "Ancient Dragon",
+    "Highroad": "Stoneskin Lords",
+    "East of Lake": "Crucible Knight with Sword",
+    "Mistwood": "Beastly Brigade",
+    "Northeast Tunnel Entrance": "Bloodhound Knight"
+  },
+  "211.0-Fulghor-Default": {
+    "Northwest of Lake": "Beastly Brigade",
+    "Murkwater Terminus": "Omen",
+    "Stormhill": "Dragonkin Soldier",
+    "Highroad": "Stoneskin Lords",
+    "East of Lake": "Crucible Knight with Sword",
+    "Mistwood": "Banished Knights",
+    "Northeast Tunnel Entrance": "Crystalians"
+  },
+  "212.0-Fulghor-Default": {
+    "Northwest of Lake": "Crucible Knight with Spear",
+    "Murkwater Terminus": "Banished Knights",
+    "Stormhill": "Omen",
+    "Highroad": "Grave Warden Duelist",
+    "East of Lake": "Nox Warriors",
+    "Mistwood": "Crucible Knight with Sword",
+    "Northeast Tunnel Entrance": "Bloodhound Knight"
+  },
+  "213.0-Fulghor-Default": {
+    "Northwest of Lake": "Beastly Brigade",
+    "Murkwater Terminus": "Dragonkin Soldier",
+    "Stormhill": "Stoneskin Lords",
+    "Highroad": "Crystalians",
+    "East of Lake": "Godskin Apostle",
+    "Mistwood": "Beastmen of Farum Azula",
+    "Northeast Tunnel Entrance": "Banished Knights"
+  },
+  "214.0-Fulghor-Default": {
+    "Northwest of Lake": "Beastmen of Farum Azula",
+    "Murkwater Terminus": "Stoneskin Lords",
+    "Stormhill": "Omen",
+    "Highroad": "Crystalians",
+    "East of Lake": "Godskin Noble",
+    "Mistwood": "Crucible Knight with Spear",
+    "Northeast Tunnel Entrance": "Nox Warriors"
+  },
+  "215.0-Fulghor-Default": {
+    "Northwest of Lake": "Bloodhound Knight",
+    "Murkwater Terminus": "Stoneskin Lords",
+    "Stormhill": "Dragonkin Soldier",
+    "Highroad": "Crucible Knight with Spear",
+    "East of Lake": "Beastmen of Farum Azula",
+    "Mistwood": "Banished Knights",
+    "Northeast Tunnel Entrance": "Beastly Brigade"
+  },
+  "216.0-Fulghor-Default": {
+    "Northwest of Lake": "Stoneskin Lords",
+    "Murkwater Terminus": "Omen",
+    "Stormhill": "Nox Warriors",
+    "Highroad": "Crystalians",
+    "East of Lake": "Godskin Apostle",
+    "Mistwood": "Godskin Noble",
+    "Northeast Tunnel Entrance": "Beastly Brigade"
+  },
+  "217.0-Fulghor-Default": {
+    "Northwest of Lake": "Beastmen of Farum Azula",
+    "Murkwater Terminus": "Grave Warden Duelist",
+    "Stormhill": "Crucible Knight with Spear",
+    "Highroad": "Banished Knights",
+    "East of Lake": "Bloodhound Knight",
+    "Mistwood": "Stoneskin Lords",
+    "Northeast Tunnel Entrance": "Godskin Noble"
+  },
+  "218.0-Fulghor-Default": {
+    "Northwest of Lake": "Stoneskin Lords",
+    "Murkwater Terminus": "Nox Warriors",
+    "Stormhill": "Dragonkin Soldier",
+    "Highroad": "Godskin Noble",
+    "East of Lake": "Crystalians",
+    "Mistwood": "Grave Warden Duelist",
+    "Northeast Tunnel Entrance": "Beastmen of Farum Azula"
+  },
+  "219.0-Fulghor-Default": {
+    "Northwest of Lake": "Stoneskin Lords",
+    "Murkwater Terminus": "Omen",
+    "Stormhill": "Crucible Knight with Sword",
+    "Highroad": "Crucible Knight with Spear",
+    "East of Lake": "Beastmen of Farum Azula",
+    "Mistwood": "Crystalians",
+    "Northeast Tunnel Entrance": "Nox Warriors"
+  },
+  "220.0-Fulghor-Mountaintop": {
+    "Northwest of Lake": "Stoneskin Lords",
+    "East of Lake": "Beastly Brigade",
+    "Mistwood": "Godskin Apostle",
+    "Northeast Tunnel Entrance": "Bloodhound Knight"
+  },
+  "221.0-Fulghor-Mountaintop": {
+    "Northwest of Lake": "Omen",
+    "East of Lake": "Banished Knights",
+    "Mistwood": "Godskin Noble",
+    "Northeast Tunnel Entrance": "Nox Warriors"
+  },
+  "222.0-Fulghor-Mountaintop": {
+    "Northwest of Lake": "Banished Knights",
+    "East of Lake": "Grave Warden Duelist",
+    "Mistwood": "Godskin Apostle",
+    "Northeast Tunnel Entrance": "Crystalians"
+  },
+  "223.0-Fulghor-Mountaintop": {
+    "Northwest of Lake": "Beastly Brigade",
+    "East of Lake": "Stoneskin Lords",
+    "Mistwood": "Crystalians",
+    "Northeast Tunnel Entrance": "Crucible Knight with Spear"
+  },
+  "224.0-Fulghor-Mountaintop": {
+    "Northwest of Lake": "Godskin Apostle",
+    "East of Lake": "Nox Warriors",
+    "Mistwood": "Bloodhound Knight",
+    "Northeast Tunnel Entrance": "Beastmen of Farum Azula"
+  },
+  "225.0-Fulghor-Crater": {
+    "Northwest of Lake": "Omen",
+    "Stormhill": "Crucible Knight with Spear",
+    "East of Lake": "Bloodhound Knight",
+    "Mistwood": "Crystalians"
+  },
+  "226.0-Fulghor-Crater": {
+    "Northwest of Lake": "Godskin Apostle",
+    "Stormhill": "Beastmen of Farum Azula",
+    "East of Lake": "Nox Warriors",
+    "Mistwood": "Stoneskin Lords"
+  },
+  "227.0-Fulghor-Crater": {
+    "Northwest of Lake": "Crucible Knight with Spear",
+    "Stormhill": "Nox Warriors",
+    "East of Lake": "Stoneskin Lords",
+    "Mistwood": "Beastmen of Farum Azula"
+  },
+  "228.0-Fulghor-Crater": {
+    "Northwest of Lake": "Crystalians",
+    "Stormhill": "Godskin Apostle",
+    "East of Lake": "Stoneskin Lords",
+    "Mistwood": "Beastmen of Farum Azula"
+  },
+  "229.0-Fulghor-Crater": {
+    "Northwest of Lake": "Bloodhound Knight",
+    "Stormhill": "Godskin Apostle",
+    "East of Lake": "Beastmen of Farum Azula",
+    "Mistwood": "Crystalians"
+  },
+  "230.0-Fulghor-Rotted Woods": {
+    "Northwest of Lake": "Grave Warden Duelist",
+    "Murkwater Terminus": "Omen",
+    "Stormhill": "Nox Warriors",
+    "Highroad": "Godskin Apostle",
+    "Mistwood": "Stoneskin Lords",
+    "Northeast Tunnel Entrance": "Crucible Knight with Spear"
+  },
+  "231.0-Fulghor-Rotted Woods": {
+    "Northwest of Lake": "Stoneskin Lords",
+    "Murkwater Terminus": "Godskin Apostle",
+    "Stormhill": "Bloodhound Knight",
+    "Highroad": "Grave Warden Duelist",
+    "Mistwood": "Omen",
+    "Northeast Tunnel Entrance": "Dragonkin Soldier"
+  },
+  "232.0-Fulghor-Rotted Woods": {
+    "Northwest of Lake": "Godskin Apostle",
+    "Murkwater Terminus": "Omen",
+    "Stormhill": "Banished Knights",
+    "Highroad": "Crucible Knight with Spear",
+    "Mistwood": "Beastmen of Farum Azula",
+    "Northeast Tunnel Entrance": "Crystalians"
+  },
+  "233.0-Fulghor-Rotted Woods": {
+    "Northwest of Lake": "Nox Warriors",
+    "Murkwater Terminus": "Death Rite Bird",
+    "Stormhill": "Godskin Noble",
+    "Highroad": "Beastly Brigade",
+    "Mistwood": "Crystalians",
+    "Northeast Tunnel Entrance": "Crucible Knight with Spear"
+  },
+  "234.0-Fulghor-Rotted Woods": {
+    "Northwest of Lake": "Beastmen of Farum Azula",
+    "Murkwater Terminus": "Bloodhound Knight",
+    "Stormhill": "Crucible Knight with Sword",
+    "Highroad": "Banished Knights",
+    "Mistwood": "Crucible Knight with Spear",
+    "Northeast Tunnel Entrance": "Beastly Brigade"
+  },
+  "235.0-Fulghor-Noklateo": {
+    "Murkwater Terminus": "Crucible Knight with Spear",
+    "Stormhill": "Banished Knights",
+    "Highroad": "Crystalians",
+    "East of Lake": "Godskin Apostle",
+    "Mistwood": "Beastly Brigade",
+    "Northeast Tunnel Entrance": "Omen"
+  },
+  "236.0-Fulghor-Noklateo": {
+    "Murkwater Terminus": "Nox Warriors",
+    "Stormhill": "Dragonkin Soldier",
+    "Highroad": "Omen",
+    "East of Lake": "Stoneskin Lords",
+    "Mistwood": "Beastmen of Farum Azula",
+    "Northeast Tunnel Entrance": "Crucible Knight with Spear"
+  },
+  "237.0-Fulghor-Noklateo": {
+    "Murkwater Terminus": "Crucible Knight with Sword",
+    "Stormhill": "Beastly Brigade",
+    "Highroad": "Stoneskin Lords",
+    "East of Lake": "Crucible Knight with Spear",
+    "Mistwood": "Godskin Duo",
+    "Northeast Tunnel Entrance": "Nox Warriors"
+  },
+  "238.0-Fulghor-Noklateo": {
+    "Murkwater Terminus": "Godskin Apostle",
+    "Stormhill": "Banished Knights",
+    "Highroad": "Dragonkin Soldier",
+    "East of Lake": "Stoneskin Lords",
+    "Mistwood": "Godskin Duo",
+    "Northeast Tunnel Entrance": "Beastly Brigade"
+  },
+  "239.0-Fulghor-Noklateo": {
+    "Murkwater Terminus": "Crystalians",
+    "Stormhill": "Godskin Noble",
+    "Highroad": "Beastmen of Farum Azula",
+    "East of Lake": "Grave Warden Duelist",
+    "Mistwood": "Nox Warriors",
+    "Northeast Tunnel Entrance": "Crucible Knight with Spear"
+  },
+  "240.0-Caligo-Default": {
+    "Northwest of Lake": "Banished Knights",
+    "Murkwater Terminus": "Bloodhound Knight",
+    "Stormhill": "Grave Warden Duelist",
+    "Highroad": "Stoneskin Lords",
+    "East of Lake": "Omen",
+    "Mistwood": "Godskin Noble",
+    "Northeast Tunnel Entrance": "Crucible Knight with Spear"
+  },
+  "241.0-Caligo-Default": {
+    "Northwest of Lake": "Beastmen of Farum Azula",
+    "Murkwater Terminus": "Bloodhound Knight",
+    "Stormhill": "Nox Warriors",
+    "Highroad": "Crucible Knight with Spear",
+    "East of Lake": "Stoneskin Lords",
+    "Mistwood": "Omen",
+    "Northeast Tunnel Entrance": "Dragonkin Soldier"
+  },
+  "242.0-Caligo-Default": {
+    "Northwest of Lake": "Omen",
+    "Murkwater Terminus": "Nox Warriors",
+    "Stormhill": "Bloodhound Knight",
+    "Highroad": "Beastmen of Farum Azula",
+    "East of Lake": "Crucible Knight with Sword",
+    "Mistwood": "Crucible Knight with Spear",
+    "Northeast Tunnel Entrance": "Crystalians"
+  },
+  "243.0-Caligo-Default": {
+    "Northwest of Lake": "Grave Warden Duelist",
+    "Murkwater Terminus": "Dragonkin Soldier",
+    "Stormhill": "Crucible Knight with Spear",
+    "Highroad": "Crystalians",
+    "East of Lake": "Stoneskin Lords",
+    "Mistwood": "Beastly Brigade",
+    "Northeast Tunnel Entrance": "Bloodhound Knight"
+  },
+  "244.0-Caligo-Default": {
+    "Northwest of Lake": "Banished Knights",
+    "Murkwater Terminus": "Crucible Knight with Spear",
+    "Stormhill": "Crucible Knight with Sword",
+    "Highroad": "Nox Warriors",
+    "East of Lake": "Crystalians",
+    "Mistwood": "Grave Warden Duelist",
+    "Northeast Tunnel Entrance": "Beastmen of Farum Azula"
+  },
+  "245.0-Caligo-Default": {
+    "Northwest of Lake": "Godskin Apostle",
+    "Murkwater Terminus": "Banished Knights",
+    "Stormhill": "Nox Warriors",
+    "Highroad": "Omen",
+    "East of Lake": "Beastly Brigade",
+    "Mistwood": "Dragonkin Soldier",
+    "Northeast Tunnel Entrance": "Stoneskin Lords"
+  },
+  "246.0-Caligo-Default": {
+    "Northwest of Lake": "Crystalians",
+    "Murkwater Terminus": "Banished Knights",
+    "Stormhill": "Godskin Apostle",
+    "Highroad": "Dragonkin Soldier",
+    "East of Lake": "Beastly Brigade",
+    "Mistwood": "Stoneskin Lords",
+    "Northeast Tunnel Entrance": "Beastmen of Farum Azula"
+  },
+  "247.0-Caligo-Default": {
+    "Northwest of Lake": "Banished Knights",
+    "Murkwater Terminus": "Beastmen of Farum Azula",
+    "Stormhill": "Stoneskin Lords",
+    "Highroad": "Godskin Noble",
+    "East of Lake": "Nox Warriors",
+    "Mistwood": "Dragonkin Soldier",
+    "Northeast Tunnel Entrance": "Grave Warden Duelist"
+  },
+  "248.0-Caligo-Default": {
+    "Northwest of Lake": "Omen",
+    "Murkwater Terminus": "Bloodhound Knight",
+    "Stormhill": "Nox Warriors",
+    "Highroad": "Beastly Brigade",
+    "East of Lake": "Godskin Apostle",
+    "Mistwood": "Godskin Noble",
+    "Northeast Tunnel Entrance": "Crystalians"
+  },
+  "249.0-Caligo-Default": {
+    "Northwest of Lake": "Banished Knights",
+    "Murkwater Terminus": "Bloodhound Knight",
+    "Stormhill": "Dragonkin Soldier",
+    "Highroad": "Omen",
+    "East of Lake": "Beastmen of Farum Azula",
+    "Mistwood": "Crucible Knight with Sword",
+    "Northeast Tunnel Entrance": "Nox Warriors"
+  },
+  "250.0-Caligo-Default": {
+    "Northwest of Lake": "Godskin Apostle",
+    "Murkwater Terminus": "Omen",
+    "Stormhill": "Nox Warriors",
+    "Highroad": "Grave Warden Duelist",
+    "East of Lake": "Bloodhound Knight",
+    "Mistwood": "Crystalians",
+    "Northeast Tunnel Entrance": "Godskin Noble"
+  },
+  "251.0-Caligo-Default": {
+    "Northwest of Lake": "Crystalians",
+    "Murkwater Terminus": "Godskin Noble",
+    "Stormhill": "Bloodhound Knight",
+    "Highroad": "Beastmen of Farum Azula",
+    "East of Lake": "Grave Warden Duelist",
+    "Mistwood": "Nox Warriors",
+    "Northeast Tunnel Entrance": "Crucible Knight with Spear"
+  },
+  "252.0-Caligo-Default": {
+    "Northwest of Lake": "Godskin Noble",
+    "Murkwater Terminus": "Omen",
+    "Stormhill": "Crucible Knight with Sword",
+    "Highroad": "Stoneskin Lords",
+    "East of Lake": "Grave Warden Duelist",
+    "Mistwood": "Nox Warriors",
+    "Northeast Tunnel Entrance": "Godskin Duo"
+  },
+  "253.0-Caligo-Default": {
+    "Northwest of Lake": "Crucible Knight with Spear",
+    "Murkwater Terminus": "Beastmen of Farum Azula",
+    "Stormhill": "Stoneskin Lords",
+    "Highroad": "Crucible Knight with Sword",
+    "East of Lake": "Crystalians",
+    "Mistwood": "Beastly Brigade",
+    "Northeast Tunnel Entrance": "Ancient Dragon"
+  },
+  "254.0-Caligo-Default": {
+    "Northwest of Lake": "Omen",
+    "Murkwater Terminus": "Godskin Apostle",
+    "Stormhill": "Banished Knights",
+    "Highroad": "Dragonkin Soldier",
+    "East of Lake": "Stoneskin Lords",
+    "Mistwood": "Beastly Brigade",
+    "Northeast Tunnel Entrance": "Death Rite Bird"
+  },
+  "255.0-Caligo-Default": {
+    "Northwest of Lake": "Nox Warriors",
+    "Murkwater Terminus": "Stoneskin Lords",
+    "Stormhill": "Beastmen of Farum Azula",
+    "Highroad": "Dragonkin Soldier",
+    "East of Lake": "Banished Knights",
+    "Mistwood": "Godskin Apostle",
+    "Northeast Tunnel Entrance": "Beastly Brigade"
+  },
+  "256.0-Caligo-Default": {
+    "Northwest of Lake": "Crystalians",
+    "Murkwater Terminus": "Godskin Duo",
+    "Stormhill": "Godskin Apostle",
+    "Highroad": "Banished Knights",
+    "East of Lake": "Omen",
+    "Mistwood": "Beastmen of Farum Azula",
+    "Northeast Tunnel Entrance": "Crucible Knight with Sword"
+  },
+  "257.0-Caligo-Default": {
+    "Northwest of Lake": "Dragonkin Soldier",
+    "Murkwater Terminus": "Omen",
+    "Stormhill": "Ancient Dragon",
+    "Highroad": "Stoneskin Lords",
+    "East of Lake": "Beastmen of Farum Azula",
+    "Mistwood": "Godskin Noble",
+    "Northeast Tunnel Entrance": "Nox Warriors"
+  },
+  "258.0-Caligo-Default": {
+    "Northwest of Lake": "Nox Warriors",
+    "Murkwater Terminus": "Omen",
+    "Stormhill": "Grave Warden Duelist",
+    "Highroad": "Banished Knights",
+    "East of Lake": "Stoneskin Lords",
+    "Mistwood": "Godskin Noble",
+    "Northeast Tunnel Entrance": "Dragonkin Soldier"
+  },
+  "259.0-Caligo-Default": {
+    "Northwest of Lake": "Crucible Knight with Sword",
+    "Murkwater Terminus": "Nox Warriors",
+    "Stormhill": "Beastly Brigade",
+    "Highroad": "Godskin Noble",
+    "East of Lake": "Crystalians",
+    "Mistwood": "Stoneskin Lords",
+    "Northeast Tunnel Entrance": "Beastmen of Farum Azula"
+  },
+  "260.0-Caligo-Mountaintop": {
+    "Northwest of Lake": "Nox Warriors",
+    "East of Lake": "Godskin Apostle",
+    "Mistwood": "Stoneskin Lords",
+    "Northeast Tunnel Entrance": "Omen"
+  },
+  "261.0-Caligo-Mountaintop": {
+    "Northwest of Lake": "Godskin Apostle",
+    "East of Lake": "Nox Warriors",
+    "Mistwood": "Banished Knights",
+    "Northeast Tunnel Entrance": "Beastly Brigade"
+  },
+  "262.0-Caligo-Mountaintop": {
+    "Northwest of Lake": "Beastly Brigade",
+    "East of Lake": "Banished Knights",
+    "Mistwood": "Crystalians",
+    "Northeast Tunnel Entrance": "Godskin Apostle"
+  },
+  "263.0-Caligo-Mountaintop": {
+    "Northwest of Lake": "Godskin Apostle",
+    "East of Lake": "Beastly Brigade",
+    "Mistwood": "Nox Warriors",
+    "Northeast Tunnel Entrance": "Bloodhound Knight"
+  },
+  "264.0-Caligo-Mountaintop": {
+    "Northwest of Lake": "Godskin Noble",
+    "East of Lake": "Stoneskin Lords",
+    "Mistwood": "Beastmen of Farum Azula",
+    "Northeast Tunnel Entrance": "Ancient Dragon"
+  },
+  "265.0-Caligo-Crater": {
+    "Northwest of Lake": "Godskin Apostle",
+    "Stormhill": "Banished Knights",
+    "East of Lake": "Stoneskin Lords",
+    "Mistwood": "Beastmen of Farum Azula"
+  },
+  "266.0-Caligo-Crater": {
+    "Northwest of Lake": "Crucible Knight with Sword",
+    "Stormhill": "Beastmen of Farum Azula",
+    "East of Lake": "Banished Knights",
+    "Mistwood": "Godskin Duo"
+  },
+  "267.0-Caligo-Crater": {
+    "Northwest of Lake": "Grave Warden Duelist",
+    "Stormhill": "Nox Warriors",
+    "East of Lake": "Crystalians",
+    "Mistwood": "Godskin Apostle"
+  },
+  "268.0-Caligo-Crater": {
+    "Northwest of Lake": "Grave Warden Duelist",
+    "Stormhill": "Nox Warriors",
+    "East of Lake": "Banished Knights",
+    "Mistwood": "Godskin Noble"
+  },
+  "269.0-Caligo-Crater": {
+    "Northwest of Lake": "Crystalians",
+    "Stormhill": "Godskin Apostle",
+    "East of Lake": "Grave Warden Duelist",
+    "Mistwood": "Death Rite Bird"
+  },
+  "270.0-Caligo-Rotted Woods": {
+    "Northwest of Lake": "Godskin Apostle",
+    "Murkwater Terminus": "Godskin Duo",
+    "Stormhill": "Stoneskin Lords",
+    "Highroad": "Crucible Knight with Spear",
+    "Mistwood": "Beastly Brigade",
+    "Northeast Tunnel Entrance": "Banished Knights"
+  },
+  "271.0-Caligo-Rotted Woods": {
+    "Northwest of Lake": "Crucible Knight with Sword",
+    "Murkwater Terminus": "Godskin Duo",
+    "Stormhill": "Crucible Knight with Spear",
+    "Highroad": "Beastly Brigade",
+    "Mistwood": "Stoneskin Lords",
+    "Northeast Tunnel Entrance": "Crystalians"
+  },
+  "272.0-Caligo-Rotted Woods": {
+    "Northwest of Lake": "Beastmen of Farum Azula",
+    "Murkwater Terminus": "Bloodhound Knight",
+    "Stormhill": "Omen",
+    "Highroad": "Nox Warriors",
+    "Mistwood": "Crucible Knight with Spear",
+    "Northeast Tunnel Entrance": "Godskin Apostle"
+  },
+  "273.0-Caligo-Rotted Woods": {
+    "Northwest of Lake": "Godskin Noble",
+    "Murkwater Terminus": "Crucible Knight with Spear",
+    "Stormhill": "Beastmen of Farum Azula",
+    "Highroad": "Grave Warden Duelist",
+    "Mistwood": "Stoneskin Lords",
+    "Northeast Tunnel Entrance": "Banished Knights"
+  },
+  "274.0-Caligo-Rotted Woods": {
+    "Northwest of Lake": "Godskin Noble",
+    "Murkwater Terminus": "Omen",
+    "Stormhill": "Godskin Apostle",
+    "Highroad": "Banished Knights",
+    "Mistwood": "Beastmen of Farum Azula",
+    "Northeast Tunnel Entrance": "Bloodhound Knight"
+  },
+  "275.0-Caligo-Noklateo": {
+    "Murkwater Terminus": "Nox Warriors",
+    "Stormhill": "Beastly Brigade",
+    "Highroad": "Crystalians",
+    "East of Lake": "Grave Warden Duelist",
+    "Mistwood": "Godskin Apostle",
+    "Northeast Tunnel Entrance": "Crucible Knight with Spear"
+  },
+  "276.0-Caligo-Noklateo": {
+    "Murkwater Terminus": "Beastmen of Farum Azula",
+    "Stormhill": "Nox Warriors",
+    "Highroad": "Dragonkin Soldier",
+    "East of Lake": "Grave Warden Duelist",
+    "Mistwood": "Godskin Apostle",
+    "Northeast Tunnel Entrance": "Bloodhound Knight"
+  },
+  "277.0-Caligo-Noklateo": {
+    "Murkwater Terminus": "Grave Warden Duelist",
+    "Stormhill": "Dragonkin Soldier",
+    "Highroad": "Banished Knights",
+    "East of Lake": "Crucible Knight with Spear",
+    "Mistwood": "Nox Warriors",
+    "Northeast Tunnel Entrance": "Beastly Brigade"
+  },
+  "278.0-Caligo-Noklateo": {
+    "Murkwater Terminus": "Banished Knights",
+    "Stormhill": "Godskin Apostle",
+    "Highroad": "Bloodhound Knight",
+    "East of Lake": "Omen",
+    "Mistwood": "Ancient Dragon",
+    "Northeast Tunnel Entrance": "Dragonkin Soldier"
+  },
+  "279.0-Caligo-Noklateo": {
+    "Murkwater Terminus": "Death Rite Bird",
+    "Stormhill": "Godskin Apostle",
+    "Highroad": "Crucible Knight with Spear",
+    "East of Lake": "Omen",
+    "Mistwood": "Crystalians",
+    "Northeast Tunnel Entrance": "Nox Warriors"
+  },
+  "280.0-Heolstor-Default": {
+    "Northwest of Lake": "Grave Warden Duelist",
+    "Murkwater Terminus": "Beastly Brigade",
+    "Stormhill": "Crucible Knight with Spear",
+    "Highroad": "Nox Warriors",
+    "East of Lake": "Crucible Knight with Sword",
+    "Mistwood": "Stoneskin Lords",
+    "Northeast Tunnel Entrance": "Banished Knights"
+  },
+  "281.0-Heolstor-Default": {
+    "Northwest of Lake": "Grave Warden Duelist",
+    "Murkwater Terminus": "Nox Warriors",
+    "Stormhill": "Beastly Brigade",
+    "Highroad": "Crucible Knight with Sword",
+    "East of Lake": "Bloodhound Knight",
+    "Mistwood": "Banished Knights",
+    "Northeast Tunnel Entrance": "Crucible Knight with Spear"
+  },
+  "282.0-Heolstor-Default": {
+    "Northwest of Lake": "Crystalians",
+    "Murkwater Terminus": "Nox Warriors",
+    "Stormhill": "Stoneskin Lords",
+    "Highroad": "Godskin Noble",
+    "East of Lake": "Crucible Knight with Spear",
+    "Mistwood": "Omen",
+    "Northeast Tunnel Entrance": "Beastmen of Farum Azula"
+  },
+  "283.0-Heolstor-Default": {
+    "Northwest of Lake": "Grave Warden Duelist",
+    "Murkwater Terminus": "Beastmen of Farum Azula",
+    "Stormhill": "Crucible Knight with Sword",
+    "Highroad": "Bloodhound Knight",
+    "East of Lake": "Godskin Noble",
+    "Mistwood": "Crystalians",
+    "Northeast Tunnel Entrance": "Stoneskin Lords"
+  },
+  "284.0-Heolstor-Default": {
+    "Northwest of Lake": "Nox Warriors",
+    "Murkwater Terminus": "Godskin Duo",
+    "Stormhill": "Beastmen of Farum Azula",
+    "Highroad": "Bloodhound Knight",
+    "East of Lake": "Omen",
+    "Mistwood": "Crucible Knight with Sword",
+    "Northeast Tunnel Entrance": "Crucible Knight with Spear"
+  },
+  "285.0-Heolstor-Default": {
+    "Northwest of Lake": "Grave Warden Duelist",
+    "Murkwater Terminus": "Stoneskin Lords",
+    "Stormhill": "Godskin Apostle",
+    "Highroad": "Dragonkin Soldier",
+    "East of Lake": "Banished Knights",
+    "Mistwood": "Nox Warriors",
+    "Northeast Tunnel Entrance": "Beastly Brigade"
+  },
+  "286.0-Heolstor-Default": {
+    "Northwest of Lake": "Omen",
+    "Murkwater Terminus": "Beastmen of Farum Azula",
+    "Stormhill": "Crucible Knight with Spear",
+    "Highroad": "Stoneskin Lords",
+    "East of Lake": "Nox Warriors",
+    "Mistwood": "Bloodhound Knight",
+    "Northeast Tunnel Entrance": "Dragonkin Soldier"
+  },
+  "287.0-Heolstor-Default": {
+    "Northwest of Lake": "Crystalians",
+    "Murkwater Terminus": "Grave Warden Duelist",
+    "Stormhill": "Godskin Apostle",
+    "Highroad": "Omen",
+    "East of Lake": "Stoneskin Lords",
+    "Mistwood": "Crucible Knight with Sword",
+    "Northeast Tunnel Entrance": "Bloodhound Knight"
+  },
+  "288.0-Heolstor-Default": {
+    "Northwest of Lake": "Godskin Apostle",
+    "Murkwater Terminus": "Beastly Brigade",
+    "Stormhill": "Banished Knights",
+    "Highroad": "Crystalians",
+    "East of Lake": "Omen",
+    "Mistwood": "Bloodhound Knight",
+    "Northeast Tunnel Entrance": "Godskin Noble"
+  },
+  "289.0-Heolstor-Default": {
+    "Northwest of Lake": "Bloodhound Knight",
+    "Murkwater Terminus": "Beastmen of Farum Azula",
+    "Stormhill": "Death Rite Bird",
+    "Highroad": "Godskin Apostle",
+    "East of Lake": "Crucible Knight with Sword",
+    "Mistwood": "Omen",
+    "Northeast Tunnel Entrance": "Crystalians"
+  },
+  "290.0-Heolstor-Default": {
+    "Northwest of Lake": "Crucible Knight with Sword",
+    "Murkwater Terminus": "Crystalians",
+    "Stormhill": "Banished Knights",
+    "Highroad": "Omen",
+    "East of Lake": "Godskin Apostle",
+    "Mistwood": "Stoneskin Lords",
+    "Northeast Tunnel Entrance": "Beastly Brigade"
+  },
+  "291.0-Heolstor-Default": {
+    "Northwest of Lake": "Grave Warden Duelist",
+    "Murkwater Terminus": "Death Rite Bird",
+    "Stormhill": "Beastly Brigade",
+    "Highroad": "Godskin Noble",
+    "East of Lake": "Crystalians",
+    "Mistwood": "Nox Warriors",
+    "Northeast Tunnel Entrance": "Dragonkin Soldier"
+  },
+  "292.0-Heolstor-Default": {
+    "Northwest of Lake": "Godskin Noble",
+    "Murkwater Terminus": "Stoneskin Lords",
+    "Stormhill": "Godskin Duo",
+    "Highroad": "Grave Warden Duelist",
+    "East of Lake": "Crucible Knight with Sword",
+    "Mistwood": "Beastly Brigade",
+    "Northeast Tunnel Entrance": "Bloodhound Knight"
+  },
+  "293.0-Heolstor-Default": {
+    "Northwest of Lake": "Beastly Brigade",
+    "Murkwater Terminus": "Stoneskin Lords",
+    "Stormhill": "Banished Knights",
+    "Highroad": "Crucible Knight with Sword",
+    "East of Lake": "Crucible Knight with Spear",
+    "Mistwood": "Omen",
+    "Northeast Tunnel Entrance": "Nox Warriors"
+  },
+  "294.0-Heolstor-Default": {
+    "Northwest of Lake": "Bloodhound Knight",
+    "Murkwater Terminus": "Crystalians",
+    "Stormhill": "Grave Warden Duelist",
+    "Highroad": "Dragonkin Soldier",
+    "East of Lake": "Beastmen of Farum Azula",
+    "Mistwood": "Crucible Knight with Spear",
+    "Northeast Tunnel Entrance": "Banished Knights"
+  },
+  "295.0-Heolstor-Default": {
+    "Northwest of Lake": "Crucible Knight with Spear",
+    "Murkwater Terminus": "Beastmen of Farum Azula",
+    "Stormhill": "Beastly Brigade",
+    "Highroad": "Dragonkin Soldier",
+    "East of Lake": "Stoneskin Lords",
+    "Mistwood": "Banished Knights",
+    "Northeast Tunnel Entrance": "Nox Warriors"
+  },
+  "296.0-Heolstor-Default": {
+    "Northwest of Lake": "Bloodhound Knight",
+    "Murkwater Terminus": "Omen",
+    "Stormhill": "Godskin Apostle",
+    "Highroad": "Nox Warriors",
+    "East of Lake": "Crystalians",
+    "Mistwood": "Beastly Brigade",
+    "Northeast Tunnel Entrance": "Godskin Noble"
+  },
+  "297.0-Heolstor-Default": {
+    "Northwest of Lake": "Omen",
+    "Murkwater Terminus": "Nox Warriors",
+    "Stormhill": "Godskin Apostle",
+    "Highroad": "Bloodhound Knight",
+    "East of Lake": "Godskin Noble",
+    "Mistwood": "Stoneskin Lords",
+    "Northeast Tunnel Entrance": "Beastly Brigade"
+  },
+  "298.0-Heolstor-Default": {
+    "Northwest of Lake": "Crucible Knight with Spear",
+    "Murkwater Terminus": "Bloodhound Knight",
+    "Stormhill": "Omen",
+    "Highroad": "Beastmen of Farum Azula",
+    "East of Lake": "Dragonkin Soldier",
+    "Mistwood": "Stoneskin Lords",
+    "Northeast Tunnel Entrance": "Crystalians"
+  },
+  "299.0-Heolstor-Default": {
+    "Northwest of Lake": "Dragonkin Soldier",
+    "Murkwater Terminus": "Crystalians",
+    "Stormhill": "Beastmen of Farum Azula",
+    "Highroad": "Crucible Knight with Spear",
+    "East of Lake": "Banished Knights",
+    "Mistwood": "Omen",
+    "Northeast Tunnel Entrance": "Nox Warriors"
+  },
+  "300.0-Heolstor-Mountaintop": {
+    "Northwest of Lake": "Banished Knights",
+    "East of Lake": "Godskin Noble",
+    "Mistwood": "Ancient Dragon",
+    "Northeast Tunnel Entrance": "Beastly Brigade"
+  },
+  "301.0-Heolstor-Mountaintop": {
+    "Northwest of Lake": "Nox Warriors",
+    "East of Lake": "Beastmen of Farum Azula",
+    "Mistwood": "Ancient Dragon",
+    "Northeast Tunnel Entrance": "Dragonkin Soldier"
+  },
+  "302.0-Heolstor-Mountaintop": {
+    "Northwest of Lake": "Banished Knights",
+    "East of Lake": "Beastmen of Farum Azula",
+    "Mistwood": "Crucible Knight with Sword",
+    "Northeast Tunnel Entrance": "Nox Warriors"
+  },
+  "303.0-Heolstor-Mountaintop": {
+    "Northwest of Lake": "Crystalians",
+    "East of Lake": "Godskin Apostle",
+    "Mistwood": "Grave Warden Duelist",
+    "Northeast Tunnel Entrance": "Stoneskin Lords"
+  },
+  "304.0-Heolstor-Mountaintop": {
+    "Northwest of Lake": "Nox Warriors",
+    "East of Lake": "Crystalians",
+    "Mistwood": "Beastmen of Farum Azula",
+    "Northeast Tunnel Entrance": "Godskin Apostle"
+  },
+  "305.0-Heolstor-Crater": {
+    "Northwest of Lake": "Crucible Knight with Sword",
+    "Stormhill": "Nox Warriors",
+    "East of Lake": "Stoneskin Lords",
+    "Mistwood": "Grave Warden Duelist"
+  },
+  "306.0-Heolstor-Crater": {
+    "Northwest of Lake": "Bloodhound Knight",
+    "Stormhill": "Godskin Noble",
+    "East of Lake": "Beastmen of Farum Azula",
+    "Mistwood": "Godskin Duo"
+  },
+  "307.0-Heolstor-Crater": {
+    "Northwest of Lake": "Omen",
+    "Stormhill": "Crucible Knight with Spear",
+    "East of Lake": "Nox Warriors",
+    "Mistwood": "Stoneskin Lords"
+  },
+  "308.0-Heolstor-Crater": {
+    "Northwest of Lake": "Stoneskin Lords",
+    "Stormhill": "Banished Knights",
+    "East of Lake": "Omen",
+    "Mistwood": "Crucible Knight with Sword"
+  },
+  "309.0-Heolstor-Crater": {
+    "Northwest of Lake": "Stoneskin Lords",
+    "Stormhill": "Death Rite Bird",
+    "East of Lake": "Crucible Knight with Spear",
+    "Mistwood": "Beastmen of Farum Azula"
+  },
+  "310.0-Heolstor-Rotted Woods": {
+    "Northwest of Lake": "Crucible Knight with Sword",
+    "Murkwater Terminus": "Bloodhound Knight",
+    "Stormhill": "Stoneskin Lords",
+    "Highroad": "Godskin Noble",
+    "Mistwood": "Beastmen of Farum Azula",
+    "Northeast Tunnel Entrance": "Omen"
+  },
+  "311.0-Heolstor-Rotted Woods": {
+    "Northwest of Lake": "Dragonkin Soldier",
+    "Murkwater Terminus": "Beastly Brigade",
+    "Stormhill": "Bloodhound Knight",
+    "Highroad": "Crystalians",
+    "Mistwood": "Crucible Knight with Sword",
+    "Northeast Tunnel Entrance": "Grave Warden Duelist"
+  },
+  "312.0-Heolstor-Rotted Woods": {
+    "Northwest of Lake": "Dragonkin Soldier",
+    "Murkwater Terminus": "Bloodhound Knight",
+    "Stormhill": "Godskin Apostle",
+    "Highroad": "Crystalians",
+    "Mistwood": "Beastmen of Farum Azula",
+    "Northeast Tunnel Entrance": "Beastly Brigade"
+  },
+  "313.0-Heolstor-Rotted Woods": {
+    "Northwest of Lake": "Nox Warriors",
+    "Murkwater Terminus": "Beastly Brigade",
+    "Stormhill": "Beastmen of Farum Azula",
+    "Highroad": "Crucible Knight with Sword",
+    "Mistwood": "Godskin Apostle",
+    "Northeast Tunnel Entrance": "Banished Knights"
+  },
+  "314.0-Heolstor-Rotted Woods": {
+    "Northwest of Lake": "Crystalians",
+    "Murkwater Terminus": "Omen",
+    "Stormhill": "Godskin Noble",
+    "Highroad": "Crucible Knight with Sword",
+    "Mistwood": "Death Rite Bird",
+    "Northeast Tunnel Entrance": "Bloodhound Knight"
+  },
+  "315.0-Heolstor-Noklateo": {
+    "Murkwater Terminus": "Dragonkin Soldier",
+    "Stormhill": "Beastmen of Farum Azula",
+    "Highroad": "Stoneskin Lords",
+    "East of Lake": "Banished Knights",
+    "Mistwood": "Godskin Duo",
+    "Northeast Tunnel Entrance": "Crucible Knight with Sword"
+  },
+  "316.0-Heolstor-Noklateo": {
+    "Murkwater Terminus": "Beastly Brigade",
+    "Stormhill": "Dragonkin Soldier",
+    "Highroad": "Bloodhound Knight",
+    "East of Lake": "Beastmen of Farum Azula",
+    "Mistwood": "Crucible Knight with Sword",
+    "Northeast Tunnel Entrance": "Stoneskin Lords"
+  },
+  "317.0-Heolstor-Noklateo": {
+    "Murkwater Terminus": "Beastly Brigade",
+    "Stormhill": "Grave Warden Duelist",
+    "Highroad": "Crucible Knight with Spear",
+    "East of Lake": "Godskin Apostle",
+    "Mistwood": "Banished Knights",
+    "Northeast Tunnel Entrance": "Crystalians"
+  },
+  "318.0-Heolstor-Noklateo": {
+    "Murkwater Terminus": "Bloodhound Knight",
+    "Stormhill": "Dragonkin Soldier",
+    "Highroad": "Beastmen of Farum Azula",
+    "East of Lake": "Godskin Apostle",
+    "Mistwood": "Grave Warden Duelist",
+    "Northeast Tunnel Entrance": "Nox Warriors"
+  },
+  "319.0-Heolstor-Noklateo": {
+    "Murkwater Terminus": "Crucible Knight with Sword",
+    "Stormhill": "Nox Warriors",
+    "Highroad": "Crucible Knight with Spear",
+    "East of Lake": "Grave Warden Duelist",
+    "Mistwood": "Beastly Brigade",
+    "Northeast Tunnel Entrance": "Crystalians"
+  }
+}
